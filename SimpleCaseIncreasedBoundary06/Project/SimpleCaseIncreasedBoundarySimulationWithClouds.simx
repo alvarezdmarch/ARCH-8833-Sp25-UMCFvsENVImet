@@ -1,0 +1,50 @@
+﻿<ENVI-MET_Datafile>
+<Header>
+ <filetype>SIMX</filetype>
+ <version>2</version>
+ <revisiondate>2025-04-10 18:28:13</revisiondate>
+ <remark>Created with lb_envimet</remark>
+ <encryptionlevel>0</encryptionlevel>
+ </Header>
+<mainData>
+ <simName>SimpleCaseIncreasedBoundarySimulationWithClouds</simName>
+ <INXFile>Model.inx</INXFile>
+ <filebaseName>SimpleCaseIncreasedBoundarySimulationWithClouds</filebaseName>
+ <outDir> </outDir>
+ <startDate>23.06.2018</startDate>
+ <startTime>00:00:00</startTime>
+ <simDuration>20</simDuration>
+ <windSpeed>2.00000</windSpeed>
+ <windDir>90.00000</windDir>
+ <z0>0.01000</z0>
+ <T_H>293.15000</T_H>
+ <Q_H>7.00000</Q_H>
+ <Q_2m>50.00000</Q_2m>
+ <windLimit>5.00000</windLimit>
+ <windAccuracy>standard</windAccuracy>
+ </mainData>
+<OutputSettings>
+ <mainFiles>60</mainFiles>
+ <textFiles>60</textFiles>
+ <netCDF>0</netCDF>
+ <netCDFAllDataInOneFile>0</netCDFAllDataInOneFile>
+ <netCDFWriteOnlySmallFile>0</netCDFWriteOnlySmallFile>
+ <inclNestingGrids>0</inclNestingGrids>
+ <writeAgents>0</writeAgents>
+ <writeAtmosphere>1</writeAtmosphere>
+ <writeBuildings>1</writeBuildings>
+ <writeObjects>1</writeObjects>
+ <writeGreenpass>1</writeGreenpass>
+ <writeNesting>0</writeNesting>
+ <writeRadiation>1</writeRadiation>
+ <writeSoil>1</writeSoil>
+ <writeSolarAccess>0</writeSolarAccess>
+ <writeSurface>1</writeSurface>
+ <writeVegetation>1</writeVegetation>
+ </OutputSettings>
+<Clouds>
+ <lowClouds>3.00000</lowClouds>
+ <middleClouds>3.00000</middleClouds>
+ <highClouds>2.00000</highClouds>
+ </Clouds>
+</ENVI-MET_Datafile>

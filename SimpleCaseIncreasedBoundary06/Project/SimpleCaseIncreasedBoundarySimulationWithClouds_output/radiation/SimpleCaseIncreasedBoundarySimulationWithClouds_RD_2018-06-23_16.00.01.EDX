@@ -1,0 +1,55 @@
+﻿<ENVI-MET_Datafile>
+<Header>
+<filetype>EDX ENVI-met Simulation Data Definition</filetype>
+<version>101</version>
+<revisiondate>07-04-2025 21:13:27</revisiondate>
+<remark>This file links to the EDT file of the same name</remark>
+<fileInfo></fileInfo>
+<checksum>156</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <datadescription>
+     <data_type> 2 </data_type>
+     <data_content> 11 </data_content>
+     <data_zorientation> 0 </data_zorientation>
+     <data_health_status> 0 </data_health_status>
+     <data_spatial_dim> 3 </data_spatial_dim>
+     <nr_xdata> 50 </nr_xdata>
+     <nr_ydata> 22 </nr_ydata>
+     <nr_zdata> 40 </nr_zdata>
+     <spacing_x> 6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500 </spacing_x>
+     <spacing_y> 6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500 </spacing_y>
+     <spacing_z> 0.60000,0.60000,0.60000,0.60000,0.60000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000 </spacing_z>
+  </datadescription>
+  <variables>
+     <Data_per_variable> 1 </Data_per_variable>
+     <nr_variables> 51 </nr_variables>
+     <name_variables> Objects ( ),Direct SW Radation (W/m²),Direct SW Radation horizontal (W/m²),Direct SW Radiation relative to Max (),Diffuse SW Radiation (W/m²),SW Radiation Reflected from upper Hemisphere (W/m²),LW Radiation from Upper Hemisphere (W/m²),SW Radiation Reflected from lower Hemisphere (W/m²),LW Radiation from Lower Hemisphere (W/m²),ViewFactor Upward Sky ( ),ViewFactor Upward Buildings ( ),ViewFactor Upward Vegetation ( ),ViewFactor Upward Soil ( ),ViewFactor Downward Sky ( ),ViewFactor Downward Buildings ( ),ViewFactor Downward Vegetation ( ),ViewFactor Downward Soil ( ),Diffuse SW Radiation without secondary Source (W/m²),Diffuse SW Radiation secondary Source (W/m²),Sum SW Radiation (W/m²),LW Radiation Received North Facing (W/m²),LW Radiation Rec. East Facing (W/m²),LW Radiation Rec. South Facing (W/m²),LW Radiation Rec. West Facing (W/m²),LW Radiation Rec. Up Facing (W/m²),LW Radiation Rec. Down Facing (W/m²),SW Radiation Rec. Reflected North Facing (W/m²),SW Radiation Rec. Reflected East (W/m²),SW Radiation Rec. Reflected South (W/m²),SW Radiation Rec. Reflected West (W/m²),SW Radiation Rec. Reflected Up (W/m²),SW Radiation Rec. Reflected Down (W/m²),Dif SW Radiation Rec. North Facing (W/m²),Dif SW Radiation Rec. East (W/m²),Dif SW Radiation Rec. South (W/m²),Dif SW Radiation Rec. West (W/m²),Dif SW Radiation Rec. Up (W/m²),Dif SW Radiation Rec. Down (W/m²),Dir SW Radiation Rec. North Facing (W/m²),Dir SW Radiation Rec. East (W/m²),Dir SW Radiation Rec. South (W/m²),Dir SW Radiation Rec. West (W/m²),Dir SW Radiation Rec. Up (W/m²),Dir SW Radiation Rec. Down (W/m²),SW Radiation Rec. North Facing (W/m²),SW Radiation Rec. East (W/m²),SW Radiation Rec. South (W/m²),SW Radiation Rec. West (W/m²),SW Radiation Rec. Up (W/m²),SW Radiation Rec. Down (W/m²),Mean Radiant Temperature (°C) </name_variables>
+  </variables>
+  <modeldescription>
+     <title> SimpleCaseIncreasedBoundarySimulationWithClouds 16.00.01 23.06.2018 </title>
+     <simulation_basename> SimpleCaseIncreasedBoundarySimulationWithClouds_RD_ </simulation_basename>
+     <simulation_date> 23.06.2018 </simulation_date>
+     <simulation_time> 16.00.01 </simulation_time>
+     <projectname> Project </projectname>
+     <locationname> Fulton County AP-Brown Field </locationname>
+     <model_rotation> 0.00000 </model_rotation>
+     <location_georef_lat> 33.76700 </location_georef_lat>
+     <location_georef_lon> -84.51700 </location_georef_lon>
+     <locationname> Fulton County AP-Brown Field </locationname>
+     <location_georef_xy_utmzone> 16 </location_georef_xy_utmzone>
+     <location_georef_x> 729951.56250 </location_georef_x>
+     <location_georef_y> 3739092.25000 </location_georef_y>
+  </modeldescription>
+  <envi-met_reference>
+     <envi-met_version> ENVI-met® V5.7.2 Feb24 © ENVI_MET GmbH Essen, 1997-2025 </envi-met_version>
+     <envi-met_GUID> DESKTOP-7UI3F9D_07-04-2025_19.25.18 </envi-met_GUID>
+     <licenseholder>  </licenseholder>
+  </envi-met_reference>
+  <additional_info>
+     <sunposition> 277.80637 </sunposition>
+     <sunposition_heightAngle> 32.93353 </sunposition_heightAngle>
+     <windinflow> 90.00000 </windinflow>
+     <addinfo1>  </addinfo1>
+  </additional_info>
+</ENVI-MET_Datafile>

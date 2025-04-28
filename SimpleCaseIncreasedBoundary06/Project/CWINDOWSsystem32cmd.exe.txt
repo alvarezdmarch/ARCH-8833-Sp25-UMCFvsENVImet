@@ -1,0 +1,2102 @@
+C:\ProgramData\McNeel\Rhinoceros\8.0\Plug-ins
+
+ENVI-met® V5.7.2 Feb24 © ENVI_MET GmbH Essen, 1997-2025
+A Holistic Microscale Climate Model
+
+ENVI-met
+From One Click LCA
+www.envi-met.com
+_________________________________________________________________________________________
+Worker node
+      Computername: DESKTOP-7UI3F9D
+      Workspace: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06
+_________________________________________________________________________________________
+ENVI-met LITE
+licensed under the Creative Commons License BY-NC-SA 3.0
+Commercial use is not allowed with license. If you have doubts, please contact office@envi-met.com
+Build: 2025224.01
+_________________________________________________________________________________________
+This version expires (YYYY/MM/DD): 2025/12/1
+_________________________________________________________________________________________
+Sorry, your license does not support Multi-Core usage
+_________________________________________________________________________________________
+Important
+You are using the LITE Version of ENVI-met.
+The maximum number of grids in the LITE version is limited to 50 x 50 x 40
+--------------------------------------------------------
+ENVI-met Workspace: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06
+--------------------------------------------------------
+Available Projects in Workspace:
+<Project>
+_________________________________________________________________________________________
+-------------------------------------------------------------------------------------
+ ENVI_met Database System (c) ENVI-MET GmbH Essen 2015,2023
+-------------------------------------------------------------------------------------
+Setting up DB System....
+  + System Database: C:\ENVImet5\sys.basedata\database.edb
+  + User/ Project Database: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\projectdatabase.edb
+-------------------------------------------------------------------------------------
+-------------------------------------
+Soil Database
+-------------------------------------
+:: Getting Soil Database (System):  OK. Found 46 items
+:: Getting Soil Database (projectdatabase.edb):  OK. Added 0 items
+:: Soil Database: Check validity...  OK
+ -------------------------------------
+Soil Database
+ -------------------------------------
+ #5000 (0000SD) [S] :LEGACY: Sand Soil type: natural soil
+ #5001 (0200SD) [S] :Sand Soil type: natural soil
+ #5002 (0000BS) [S] :LEGACY: Smashed brick Soil type: natural soil
+ #5003 (0200BS) [S] :Smashed brick Soil type: natural soil
+ #5004 (0000LS) [S] :LEGACY: Loamy Sand Soil type: natural soil
+ #5005 (0200LS) [S] :Loamy Sand Soil type: natural soil
+ #5006 (0000SL) [S] :LEGACY: Sandy Loam Soil type: natural soil
+ #5007 (0200SL) [S] :Sandy Loam Soil type: natural soil
+ #5008 (0000SO) [S] :LEGACY: Silt Loam Soil type: natural soil
+ #5009 (0200SO) [S] :Silt Loam Soil type: natural soil
+ #5010 (0000LE) [S] :LEGACY: Loam Soil type: natural soil
+ #5011 (0200LE) [S] :Loam Soil type: natural soil
+ #5012 (0000TS) [S] :LEGACY: Sandy Clay Loam Soil type: natural soil
+ #5013 (0200TS) [S] :Sandy Clay Loam Soil type: natural soil
+ #5014 (0000TL) [S] :LEGACY: Silty Clay Loam Soil type: natural soil
+ #5015 (0200TL) [S] :Silty Clay Loam Soil type: natural soil
+ #5016 (0000LT) [S] :LEGACY: Clay Loam Soil type: natural soil
+ #5017 (0200LT) [S] :Clay Loam Soil type: natural soil
+ #5018 (0000ST) [S] :LEGACY: Sandy Clay Soil type: natural soil
+ #5019 (0200ST) [S] :Sandy Clay Soil type: natural soil
+ #5020 (0000TO) [S] :LEGACY: Clay Soil type: natural soil
+ #5021 (0200TO) [S] :Clay Soil type: natural soil
+ #5022 (0000TF) [S] :LEGACY: Peat Soil type: natural soil
+ #5023 (0200TF) [S] :Peat Soil type: natural soil
+ #5024 (0000ZB) [S] :LEGACY: Cement Concrete Soil type: artificial soil
+ #5025 (0200ZB) [S] :Cement Concrete Soil type: artificial soil
+ #5026 (0000MB) [S] :LEGACY: Mineral Concrete Soil type: artificial soil
+ #5027 (0200MB) [S] :Mineral Concrete Soil type: artificial soil
+ #5028 (0000AK) [S] :LEGACY: Asphalt (with Gravel) Soil type: artificial soil
+ #5029 (0200AK) [S] :Asphalt (with Gravel) Soil type: artificial soil
+ #5030 (0000AB) [S] :LEGACY: Asphalt (with Basalt) Soil type: artificial soil
+ #5031 (0200AB) [S] :Asphalt (with Basalt) Soil type: artificial soil
+ #5032 (0000GR) [S] :LEGACY: Granite Soil type: artificial soil
+ #5033 (0200GR) [S] :Granite Soil type: artificial soil
+ #5034 (0000BA) [S] :LEGACY: Basalt Soil type: artificial soil
+ #5035 (0200BA) [S] :Basalt Soil type: artificial soil
+ #5036 (0000WW) [S] :LEGACY: Water Soil type: water body
+ #5037 (0200WW) [S] :Water Soil type: water body
+ #5038 (0000BR) [S] :LEGACY: Brick Soil type: artificial soil
+ #5039 (0200BR) [S] :Brick Soil type: artificial soil
+ #5040 (0000CC) [S] :LEGACY: Mineral concrete wet Soil type: artificial soil
+ #5041 (0200CC) [S] :Mineral concrete wet Soil type: artificial soil
+ #5042 (0000WD) [S] :LEGACY: Wood Planks Soil type: artificial soil
+ #5043 (0200WD) [S] :Wood Planks Soil type: artificial soil
+ #5044 (0000SY) [S] :LEGACY: Styrofoam Soil type: artificial soil
+ #5045 (0200SY) [S] :Styrofoam Soil type: artificial soil
+ Total: 46 soils out of 999 used.
+ -------------------------------------
+-------------------------------------
+Soil Profile Database
+-------------------------------------
+:: Getting Soil Profile Database (System):  OK. Found 62 items
+:: Getting Soil Profile Database (projectdatabase.edb):  OK. Added 0 items
+:: Soil Profile Database: Check validity...  OK
+ -------------------------------------
+Soil Profile Database
+ -------------------------------------
+ #2000 (CELLAR) [S] :Default soil profile underneath a building Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-(...)]
+ #2001 (010000) [S] :LEGACY: Default Unsealed Soil (Sandy Loam) Soils: [0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2002 (0100SL) [S] :LEGACY: Default Unsealed Soil (Sandy Loam) Soils: [0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2003 (0200SL) [S] :Default Unsealed Soil (Sandy Loam) Soils: [0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2004 (0000LS) [S] :LEGACY: Unsealed Soil (Loamy Soil) Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2005 (0000ST) [S] :LEGACY: Asphalt Road Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000LE-(...)]
+ #2006 (0100ST) [S] :LEGACY: Asphalt Road Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000SL-(...)]
+ #2007 (0200ST) [S] :Asphalt Road Soils: [0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200SL-(...)]
+ #2008 (0100PP) [S] :LEGACY: Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2009 (0200PP) [S] :Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2010 (0000PP) [S] :LEGACY: Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2011 (000000) [S] :Default Sandy Loam Soils: [0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2012 (0000LO) [S] :LEGACY: Loamy Soil Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2013 (0100LO) [S] :LEGACY: Loamy Soil Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2014 (0200LO) [S] :Loamy Soil Soils: [0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-(...)]
+ #2015 (0000SD) [S] :LEGACY: Sandy Soil Soils: [0000SD-0000SD-0000SD-0000SD-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2016 (0100SD) [S] :LEGACY: Sandy Soil Soils: [0000SD-0000SD-0000SD-0000SD-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2017 (0200SD) [S] :Sandy Soil Soils: [0200SD-0200SD-0200SD-0200SD-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2018 (0000WW) [S] :LEGACY: Deep Water Soils: [0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-(...)]
+ #2019 (0100WW) [S] :LEGACY: Deep Water Soils: [0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-(...)]
+ #2020 (0200WW) [S] :Deep Water Soils: [0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-(...)]
+ #2021 (0000KK) [S] :LEGACY: Brick road (red stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2022 (0100KK) [S] :LEGACY: Brick road (red stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2023 (0200KK) [S] :Brick road (red stones) Soils: [0200BR-0200BR-0200BR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2024 (0000KG) [S] :LEGACY: Brick road (yellow stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2025 (0100KG) [S] :LEGACY: Brick road (yellow stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2026 (0200KG) [S] :Brick road (yellow stones) Soils: [0200BR-0200BR-0200BR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2027 (0000GG) [S] :LEGACY: Dark Granit Pavement Soils: [0000GR-0000GR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2028 (0100GG) [S] :LEGACY: Dark Granit Pavement Soils: [0000GR-0000GR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2029 (0200GG) [S] :Dark Granit Pavement Soils: [0200GR-0200GR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2030 (0000GS) [S] :LEGACY: Granit Pavement (single stones) Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000MB-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2031 (0100GS) [S] :LEGACY: Granit Pavement (single stones) Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000MB-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2032 (0200GS) [S] :Granit Pavement (single stones) Soils: [0200GR-0200GR-0200GR-0200GR-0200GR-0200MB-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2033 (0000G2) [S] :LEGACY: Granit shining Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2034 (0100G2) [S] :LEGACY: Granit shining Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2035 (0200G2) [S] :Granit shining Soils: [0200GR-0200GR-0200GR-0200GR-0200GR-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2036 (0000WC) [S] :LEGACY: Wet Concrete TEST Soils: [0000CC-0000CC-0000CC-0000CC-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2037 (0100WC) [S] :LEGACY: Wet Concrete TEST Soils: [0000CC-0000CC-0000CC-0000CC-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2038 (0000PC) [S] :LEGACY: PhotocatTest Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2039 (0100PC) [S] :LEGACY: PhotocatTest Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2040 (0000PG) [S] :LEGACY: Concrete Pavement Gray Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2041 (0100PG) [S] :LEGACY: Concrete Pavement Gray Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2042 (0200PG) [S] :Concrete Pavement Gray Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2043 (0000PL) [S] :LEGACY: Concrete Pavement Light Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2044 (0100PL) [S] :LEGACY: Concrete Pavement Light Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2045 (0200PL) [S] :Concrete Pavement Light Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2046 (0000PD) [S] :LEGACY: Concrete Pavement Dark Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2047 (0100PD) [S] :LEGACY: Concrete Pavement Dark Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2048 (0200PD) [S] :Concrete Pavement Dark Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2049 (0000TB) [S] :LEGACY: Terre battue (Smashed brick) Soils: [0000BS-0000BS-0000BS-0000SD-0000LS-0000LS-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2050 (0100TB) [S] :LEGACY: Terre battue (Smashed brick) Soils: [0000BS-0000BS-0000BS-0000SD-0000LS-0000LS-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2051 (0000AR) [S] :LEGACY: Asphalt road with red coating Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AK-0000AB-0000AB-0000AB-0000AB-(...)]
+ #2052 (0100AR) [S] :LEGACY: Asphalt road with red coating Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AK-0000AB-0000AB-0000AB-0000AB-(...)]
+ #2053 (0200AR) [S] :Asphalt road with red coating Soils: [0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-(...)]
+ #2054 (0000BA) [S] :LEGACY: Basalt Brick Road Soils: [0000BA-0000BA-0000BA-0000BA-0000BA-0000SD-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2055 (0100BA) [S] :LEGACY: Basalt Brick Road Soils: [0000BA-0000BA-0000BA-0000BA-0000BA-0000SD-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2056 (0200BA) [S] :Basalt Brick Road Soils: [0200BA-0200BA-0200BA-0200BA-0200BA-0200SD-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2057 (0000WD) [S] :LEGACY: Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000LE-(...)]
+ #2058 (0100WD) [S] :LEGACY: Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000SL-(...)]
+ #2059 (0200WD) [S] :Wood Planks Soils: [0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200SD-0200LS-0200SL-(...)]
+ #2060 (0100DW) [S] :LEGACY: Darker Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000SL-(...)]
+ #2061 (0200DW) [S] :Darker Wood Planks Soils: [0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200SD-0200LS-0200SL-(...)]
+ Total: 62 soil profiles out of 999 used.
+ -------------------------------------
+-------------------------------------
+Sources Database
+-------------------------------------
+:: Getting Sources Database (System):  OK. Found 5 items
+:: Getting Sources Database (projectdatabase.edb):  OK. Added 0 items
+:: Sources Database: Check validity...  OK
+ -------------------------------------
+Sources Database
+ -------------------------------------
+ #6000 (0200DR) [S] :Test Lane Source type: Line
+ #6001 (0000DR) [S] :LEGACY: Test Lane Source type: Line
+ #6002 (0200FT) [S] :Water Fountain 4 m Source type: Point
+ #6003 (0200WN) [S] :Water Nozzle 2 m Source type: Point
+ #6004 (0000FT) [S] :LEGACY: Water Fountain 4 m Source type: Point
+ Total: 5 sources out of 999 used.
+ -------------------------------------
+-------------------------------------
+Simple Plant Database
+-------------------------------------
+:: Getting Simple Plant Database (System):  OK. Found 36 items
+:: Getting Simple Plant Database (projectdatabase.edb):  OK. Added 0 items
+:: Simple Plant Database: Check validity...  OK
+ -------------------------------------
+Simple Plant Database
+ -------------------------------------
+ #8000 (0000XX) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8001 (000000) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8002 (0000SO) [S] :LEGACY: soja 90. soja 63cm Plant type: (Grass)
+ #8003 (0000LG) [S] :LEGACY: luzerne 18cm Plant type: (Grass)
+ #8004 (0000SM) [S] :LEGACY: Tree 20 m very dense, distinct crown layer Plant type: (Deciduous)
+ #8005 (0000SK) [S] :LEGACY: Tree 15 m very dense, distinct crown layer Plant type: (Deciduous)
+ #8006 (0000S1) [S] :LEGACY: Tree 15 m medium dense, distinct crown layer Plant type: (Deciduous)
+ #8007 (0000H2) [S] :LEGACY: Hedge dense, 2m Plant type: (Deciduous)
+ #8008 (0000T1) [S] :LEGACY: Tree 10 m very dense, leafless base Plant type: (Deciduous)
+ #8009 (0000T0) [S] :LEGACY: Tree 10 m medium dense, leafless base Plant type: (Deciduous)
+ #8010 (0000GG) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8011 (0000BS) [S] :LEGACY: Tree 20 m medium dense.,distinct crown layer Plant type: (Deciduous)
+ #8012 (0000SC) [S] :LEGACY: Tree 20 m very dense, free stem crown layer Plant type: (Deciduous)
+ #8013 (010000) [S] :LEGACY: Funkia (Hosta) Plant type: (Deciduous)
+ #8014 (0100XY) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8015 (0200XY) [S] :Grass 50 cm aver. dense Plant type: (Grass)
+ #8016 (0100XX) [S] :LEGACY: Grass 25 cm aver. dense Plant type: (Grass)
+ #8017 (0200XX) [S] :Grass 25 cm aver. dense Plant type: (Grass)
+ #8018 (0100SO) [S] :LEGACY: Soja 63cm Plant type: (Grass)
+ #8019 (0200SO) [S] :Soja 63cm Plant type: (Grass)
+ #8020 (0100LG) [S] :LEGACY: Luzerne 18cm Plant type: (Grass)
+ #8021 (0200LG) [S] :Luzerne 18cm Plant type: (Grass)
+ #8022 (0100H2) [S] :LEGACY: Hedge dense, 2m Plant type: (Deciduous)
+ #8023 (0200H2) [S] :Hedge dense, 2m Plant type: (Deciduous)
+ #8024 (0201H2) [S] :Hedge light, 2m Plant type: (Deciduous)
+ #8025 (0200H1) [S] :Hedge dense, 1m Plant type: (Deciduous)
+ #8026 (0201H1) [S] :Hedge light, 1m Plant type: (Deciduous)
+ #8027 (0100H4) [S] :LEGACY: Hedge dense, 4m Plant type: (Deciduous)
+ #8028 (0200H4) [S] :Hedge dense, 4m Plant type: (Deciduous)
+ #8029 (0201H4) [S] :Hedge light, 4m Plant type: (Deciduous)
+ #8030 (0100IV) [S] :LEGACY: Ivy (Hedera helix) Plant type: (Deciduous)
+ #8031 (0200IV) [S] :Ivy (Hedera helix) Plant type: (Deciduous)
+ #8032 (0100FE) [S] :LEGACY: Fern (Nephrolepis) Plant type: (Deciduous)
+ #8033 (0200FE) [S] :Fern (Nephrolepis) Plant type: (Deciduous)
+ #8034 (0100FU) [S] :LEGACY: Funkia (Hosta) Plant type: (Deciduous)
+ #8035 (0200FU) [S] :Funkia (Hosta) Plant type: (Deciduous)
+ Total: 36 simple plants out of 999 used.
+ -------------------------------------
+-------------------------------------
+3D Plant Database
+-------------------------------------
+:: Getting 3D Plant Database (System):  OK. Found 338 items
+:: Getting 3D Plant Database (projectdatabase.edb):  OK. Added 0 items
+:: 3D Plant Database: Check validity...  OK
+ -------------------------------------
+3D Plant Database
+ -------------------------------------
+ #9000 (ED00NN) [S] :Example Tree Plant type: (Deciduous)
+ #9001 (01SSDM) [S] :LEGACY: Spherical, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9002 (01SSDL) [S] :LEGACY: Spherical, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9003 (01SSDS) [S] :LEGACY: Spherical, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9004 (01SMDS) [S] :LEGACY: Spherical, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9005 (01SLDS) [S] :LEGACY: Spherical, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9006 (01SMDM) [S] :LEGACY: Spherical, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9007 (01SMDL) [S] :LEGACY: Spherical, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9008 (01SLDM) [S] :LEGACY: Spherical, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9009 (01SLDL) [S] :LEGACY: Spherical, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9010 (01OSDL) [S] :LEGACY: Cylindric, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9011 (01OLDL) [S] :LEGACY: Cylindric, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9012 (01OSDS) [S] :LEGACY: Cylindric, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9013 (01OSDM) [S] :LEGACY: Cylindric, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9014 (01OMDM) [S] :LEGACY: Cylindric, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9015 (01OMDS) [S] :LEGACY: Cylindric, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9016 (01OMDL) [S] :LEGACY: Cylindric, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9017 (01OLDM) [S] :LEGACY: Cylindric, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9018 (01OLDS) [S] :LEGACY: Cylindric, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9019 (01HLDL) [S] :LEGACY: Heart-shaped, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9020 (01HLDM) [S] :LEGACY: Heart-shaped, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9021 (01HLDS) [S] :LEGACY: Heart-shaped, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9022 (01HMDL) [S] :LEGACY: Heart-shaped, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9023 (01HMDM) [S] :LEGACY: Heart-shaped, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9024 (01HMDS) [S] :LEGACY: Heart-shaped, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9025 (01HSDL) [S] :LEGACY: Heart-shaped, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9026 (01HSDS) [S] :LEGACY: Heart-shaped, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9027 (01HSDM) [S] :LEGACY: Heart-shaped, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9028 (01SSSM) [S] :LEGACY: Spherical, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9029 (01SSSL) [S] :LEGACY: Spherical, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9030 (01SSSS) [S] :LEGACY: Spherical, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9031 (01SMSS) [S] :LEGACY: Spherical, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9032 (01SLSS) [S] :LEGACY: Spherical, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9033 (01SMSM) [S] :LEGACY: Spherical, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9034 (01SMSL) [S] :LEGACY: Spherical, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9035 (01SLSM) [S] :LEGACY: Spherical, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9036 (01SLSL) [S] :LEGACY: Spherical, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9037 (01OSSL) [S] :LEGACY: Cylindric, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9038 (01OLSL) [S] :LEGACY: Cylindric, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9039 (01OSSS) [S] :LEGACY: Cylindric, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9040 (01OSSM) [S] :LEGACY: Cylindric, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9041 (01OMSM) [S] :LEGACY: Cylindric, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9042 (01OMSS) [S] :LEGACY: Cylindric, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9043 (01OMSL) [S] :LEGACY: Cylindric, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9044 (01OLSM) [S] :LEGACY: Cylindric, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9045 (01OLSS) [S] :LEGACY: Cylindric, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9046 (01HLSL) [S] :LEGACY: Heart-shaped, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9047 (01HLSM) [S] :LEGACY: Heart-shaped, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9048 (01HLSS) [S] :LEGACY: Heart-shaped, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9049 (01HMSL) [S] :LEGACY: Heart-shaped, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9050 (01HMSM) [S] :LEGACY: Heart-shaped, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9051 (01HMSS) [S] :LEGACY: Heart-shaped, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9052 (01HSSL) [S] :LEGACY: Heart-shaped, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9053 (01HSSS) [S] :LEGACY: Heart-shaped, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9054 (01HSSM) [S] :LEGACY: Heart-shaped, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9055 (01ALDL) [S] :LEGACY: Conic, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9056 (01CSDS) [S] :LEGACY: Cylindric, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9057 (01AMDM) [S] :LEGACY: Conic, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9058 (01AMDS) [S] :LEGACY: Conic, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9059 (01ALDS) [S] :LEGACY: Conic, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9060 (01AMDL) [S] :LEGACY: Conic, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9061 (01ALDM) [S] :LEGACY: Conic, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9062 (01ASDL) [S] :LEGACY: Conic, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9063 (01ASDM) [S] :LEGACY: Conic, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9064 (01ASDS) [S] :LEGACY: Conic, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9065 (01CLDL) [S] :LEGACY: Cylindric, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9066 (01CSDL) [S] :LEGACY: Cylindric, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9067 (01CMDL) [S] :LEGACY: Cylindric, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9068 (01CMDM) [S] :LEGACY: Cylindric, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9069 (01CMDS) [S] :LEGACY: Cylindric, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9070 (01CLDS) [S] :LEGACY: Cylindric, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9071 (01CSDM) [S] :LEGACY: Cylindric, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9072 (01CLDM) [S] :LEGACY: Cylindric, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9073 (01ALSL) [S] :LEGACY: Conic, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9074 (01CSSS) [S] :LEGACY: Cylindric, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9075 (01AMSM) [S] :LEGACY: Conic, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9076 (01AMSS) [S] :LEGACY: Conic, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9077 (01ALSS) [S] :LEGACY: Conic, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9078 (01AMSL) [S] :LEGACY: Conic, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9079 (01ALSM) [S] :LEGACY: Conic, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9080 (01ASSL) [S] :LEGACY: Conic, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9081 (01ASSM) [S] :LEGACY: Conic, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9082 (01ASSS) [S] :LEGACY: Conic, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9083 (01CLSL) [S] :LEGACY: Cylindric, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9084 (01CSSL) [S] :LEGACY: Cylindric, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9085 (01CMSL) [S] :LEGACY: Cylindric, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9086 (01CMSM) [S] :LEGACY: Cylindric, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9087 (01CMSS) [S] :LEGACY: Cylindric, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9088 (01CLSS) [S] :LEGACY: Cylindric, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9089 (01CSSM) [S] :LEGACY: Cylindric, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9090 (01CLSM) [S] :LEGACY: Cylindric, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9091 (01PLDL) [S] :Palm, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9092 (01PLDM) [S] :Palm, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9093 (01PSDS) [S] :Palm, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9094 (01PMDS) [S] :Palm, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9095 (01PLDS) [S] :Palm, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9096 (0000B5) [S] :LEGACY: Fraxinus Excelsior Plant type: (Deciduous)
+ #9097 (0000B2) [S] :LEGACY: Fagus Sylvatica Plant type: (Deciduous)
+ #9098 (0000B3) [S] :LEGACY: Quercus Robur Plant type: (Deciduous)
+ #9099 (0000E1) [S] :LEGACY: Ulmus Minor Plant type: (Deciduous)
+ #9100 (0000A9) [S] :LEGACY: Acer Campestre Plant type: (Deciduous)
+ #9101 (0000B6) [S] :LEGACY: Ulmus Ã- Hollandica Plant type: (Deciduous)
+ #9102 (0000A5) [S] :LEGACY: Gleditsia Triacanthos Plant type: (Deciduous)
+ #9103 (0000B4) [S] :LEGACY: Carpinus Betulus Plant type: (Deciduous)
+ #9104 (000003) [S] :LEGACY: Robinia Pseudoacacia Plant type: (Deciduous)
+ #9105 (0000C1) [S] :LEGACY: Larix Decidua Plant type: (Conifer)
+ #9106 (0000A2) [S] :LEGACY: Tilia Platyphyllos Plant type: (Deciduous)
+ #9107 (0000C4) [S] :LEGACY: Picea Abies Plant type: (Conifer)
+ #9108 (0000C2) [S] :LEGACY: Pine Plant type: (Conifer)
+ #9109 (0000B7) [S] :LEGACY: Betula Pendula Plant type: (Deciduous)
+ #9110 (0000C3) [S] :LEGACY: Abies Alba Plant type: (Conifer)
+ #9111 (0000A1) [S] :LEGACY: Tilia Cordata Plant type: (Deciduous)
+ #9112 (000007) [S] :LEGACY: Acer Platanoides Plant type: (Deciduous)
+ #9113 (0000A8) [S] :LEGACY: Acer Pseudoplatanus Plant type: (Deciduous)
+ #9114 (0000AC) [S] :LEGACY: Senegalia Greggii Plant type: (Deciduous)
+ #9115 (0000TA) [S] :LEGACY: Tamarix Gallica Plant type: (Conifer)
+ #9116 (0000JU) [S] :LEGACY: Cercis Siliquastrum Plant type: (Deciduous)
+ #9117 (0000PW) [S] :LEGACY: Palm Washingtonia Plant type: (Deciduous)
+ #9118 (0000CC) [S] :LEGACY: Fraxinus Plant type: (Deciduous)
+ #9119 (0000PR) [S] :LEGACY: Tilia Plant type: (Deciduous)
+ #9120 (0000PP) [S] :LEGACY: Pinus Pinea Plant type: (Conifer)
+ #9121 (0000AJ) [S] :LEGACY: Albizia Julibrissin Plant type: (Deciduous)
+ #9122 (0000AN) [S] :LEGACY: Acer Negundo Plant type: (Deciduous)
+ #9123 (0000S2) [S] :LEGACY: Sophora Japonica Plant type: (Deciduous)
+ #9124 (0000B8) [S] :LEGACY: Platanus Ã- Acerifolia Plant type: (Deciduous)
+ #9125 (0000ZY) [S] :LEGACY: Cypress Plant type: (Conifer)
+ #9126 (0000JM) [S] :LEGACY: Jacaranda mimosifolia Plant type: (Deciduous)
+ #9127 (0000OT) [S] :LEGACY: Olea Europaea Plant type: (Deciduous)
+ #9128 (0000LI) [S] :LEGACY: Privet Plant type: (Deciduous)
+ #9129 (0000ZI) [S] :LEGACY: Citrus x Aurantium Plant type: (Deciduous)
+ #9130 (0000K1) [S] :LEGACY: Koelreuteria paniculata Plant type: (Deciduous)
+ #9131 (0000PN) [S] :LEGACY: Populus Nigra Plant type: (Deciduous)
+ #9132 (0000PA) [S] :LEGACY: Populus Alba Plant type: (Deciduous)
+ #9133 (0000NM) [S] :DemoTree 10 Iterations Plant type: (Conifer)  QSM-System based
+ #9134 (0000NO) [S] :DemoTree 5 Iterations Plant type: (Conifer)  QSM-System based
+ #9135 (000DNN) [S] :DemoTree altern Angle Plant type: (Conifer)  QSM-System based
+ #9136 (0000DD) [S] :Pine like Tree Plant type: (Conifer)  QSM-System based
+ #9137 (010020) [S] :Field Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9138 (030060) [S] :London Plane Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9139 (030052) [S] :Horse Chestnut (old) Plant type: (Deciduous)  QSM-System based
+ #9140 (030090) [S] :Common Robinia (old) Plant type: (Deciduous)  QSM-System based
+ #9141 (042010) [S] :Little Leaf Lime (very old) II Plant type: (Deciduous)  QSM-System based
+ #9142 (02001A) [S] :Little Leaf Lime Rancho (middle) Plant type: (Deciduous)  QSM-System based
+ #9143 (01002A) [S] :Field Maple Elsrijk (young) Plant type: (Deciduous)  QSM-System based
+ #9144 (020051) [S] :Red-flowered Horse Chestnut (middle) Plant type: (Deciduous)  QSM-System based
+ #9145 (000NNN) [S] :Tilia Alternative Plant type: (Deciduous)  QSM-System based
+ #9146 (02002B) [S] :Field Maple Elegant (middle) Plant type: (Deciduous)  QSM-System based
+ #9147 (030030) [S] :Norway Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9148 (02003A) [S] :Norway Maple Cleveland (middle) Plant type: (Deciduous)  QSM-System based
+ #9149 (021041) [S] :Hungarian Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9150 (020121) [S] :Dutch Elm (middle) Plant type: (Deciduous)  QSM-System based
+ #9151 (020130) [S] :Swedisch Whitebeam (middle) Plant type: (Deciduous)  QSM-System based
+ #9152 (0000PA) [S] :Palm Plant type: (Deciduous)  QSM-System based
+ #9153 (000140) [S] :Wild Cherry Plena (GALK) Plant type: (Deciduous)  QSM-System based
+ #9154 (030150) [S] :Ginkgo / Fan Leave Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9155 (020160) [S] :American Sweet Gum (middle) Plant type: (Deciduous)  QSM-System based
+ #9156 (030170) [S] :American Gleditschie / Leather Sleeve Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9157 (020180) [S] :Flower-/ Manna-Ash (middle) Plant type: (Deciduous)  QSM-System based
+ #9158 (020190) [S] :Tree Hazel (middle) Plant type: (Deciduous)  QSM-System based
+ #9159 (021200) [S] :Quaking Aspen (middle) Plant type: (Deciduous)  QSM-System based
+ #9160 (020210) [S] :Silver Lime (middle) Plant type: (Deciduous)  QSM-System based
+ #9161 (020020) [S] :Field Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9162 (02002A) [S] :Field Maple Elsrijk (middle) Plant type: (Deciduous)  QSM-System based
+ #9163 (030070) [S] :Hornbeam (old) Plant type: (Deciduous)  QSM-System based
+ #9164 (020100) [S] :Apple Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9165 (020050) [S] :Horse Chestnut (middle) Plant type: (Deciduous)  QSM-System based
+ #9166 (010051) [S] :Red-flowered Horse Chestnut (young) Plant type: (Deciduous)  QSM-System based
+ #9167 (030120) [S] :Dutch Elm (old) Plant type: (Deciduous)  QSM-System based
+ #9168 (040030) [S] :Norway Maple (very old) Plant type: (Deciduous)  QSM-System based
+ #9169 (02003C) [S] :Norway Maple Olmsted (middle) Plant type: (Deciduous)  QSM-System based
+ #9170 (02003B) [S] :Norway Maple Globosum (middle) Plant type: (Deciduous)  QSM-System based
+ #9171 (030034) [S] :Red Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9172 (030010) [S] :Little Leaf Lime (old) Plant type: (Deciduous)  QSM-System based
+ #9173 (020041) [S] :Hungarian Oak (middle) II Plant type: (Deciduous)  QSM-System based
+ #9174 (030111) [S] :Hanging Birch (old) Plant type: (Deciduous)  QSM-System based
+ #9175 (040112) [S] :Hanging Birch 2 (very old) Plant type: (Deciduous)  QSM-System based
+ #9176 (02001B) [S] :Little Leaf Lime Greenspire (middle) Plant type: (Deciduous)  QSM-System based
+ #9177 (020031) [S] :Bluebell Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9178 (030032) [S] :Sweet Chestnut/Maron (old) Plant type: (Deciduous)  QSM-System based
+ #9179 (020033) [S] :Sycamore Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9180 (030040) [S] :Pendunculate Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9181 (030035) [S] :Silver Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9182 (030037) [S] :Tree of Heaven (old) Plant type: (Deciduous)  QSM-System based
+ #9183 (020039) [S] :Spaeth's Alder (middle) Plant type: (Deciduous)  QSM-System based
+ #9184 (030600) [S] :White Willow (old) Plant type: (Deciduous)  QSM-System based
+ #9185 (010025) [S] :Rowan (young) Plant type: (Deciduous)  QSM-System based
+ #9186 (020027) [S] :Pine Tree (middle) Plant type: (Conifer)  QSM-System based
+ #9187 (030660) [S] :Primeval Sequioa (old) Plant type: (Conifer)  QSM-System based
+ #9188 (010190) [S] :Tree Hazel (young) Plant type: (Deciduous)  QSM-System based
+ #9189 (020025) [S] :Rowan (middle) Plant type: (Deciduous)  QSM-System based
+ #9190 (010039) [S] :Spaeth's Alder (young) Plant type: (Deciduous)  QSM-System based
+ #9191 (030039) [S] :Spaeth's Alder (old) Plant type: (Deciduous)  QSM-System based
+ #9192 (030033) [S] :Sycamore Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9193 (010033) [S] :Sycamore Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9194 (010160) [S] :American Sweet Gum (young) Plant type: (Deciduous)  QSM-System based
+ #9195 (030020) [S] :Field Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9196 (010080) [S] :Common Ash (young) Plant type: (Deciduous)  QSM-System based
+ #9197 (020080) [S] :Common Ash (middle) Plant type: (Deciduous)  QSM-System based
+ #9198 (030080) [S] :Common Ash (old) Plant type: (Deciduous)  QSM-System based
+ #9199 (020150) [S] :Ginkgo / Fan Leave Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9200 (010150) [S] :Ginkgo / Fan Leave Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9201 (020070) [S] :Hornbeam (middle) Plant type: (Deciduous)  QSM-System based
+ #9202 (010070) [S] :Hornbeam (young) Plant type: (Deciduous)  QSM-System based
+ #9203 (020060) [S] :London Plane Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9204 (010060) [S] :London Plane Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9205 (020034) [S] :Red Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9206 (010050) [S] :Horse Chestnut (young) Plant type: (Deciduous)  QSM-System based
+ #9207 (030051) [S] :Red-flowered Horse Chestnut (old) Plant type: (Deciduous)  QSM-System based
+ #9208 (020030) [S] :Norway Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9209 (010030) [S] :Norway Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9210 (000040) [S] :Pendunculate Oak (GALK) Plant type: (Deciduous)  QSM-System based
+ #9211 (020040) [S] :Pendunculate Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9212 (010040) [S] :Pendunculate Oak (young) Plant type: (Deciduous)  QSM-System based
+ #9213 (020035) [S] :Silver Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9214 (010035) [S] :Silver Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9215 (020600) [S] :White Willow (middle) Plant type: (Deciduous)  QSM-System based
+ #9216 (030140) [S] :Wild Cherry Plena (old) Plant type: (Deciduous)  QSM-System based
+ #9217 (020140) [S] :Wild Cherry Plena (middle) Plant type: (Deciduous)  QSM-System based
+ #9218 (010140) [S] :Wild Cherry Plena (young) Plant type: (Deciduous)  QSM-System based
+ #9219 (01002B) [S] :Field Maple Elegant (young) Plant type: (Deciduous)  QSM-System based
+ #9220 (020090) [S] :Common Robinia (middle) Plant type: (Deciduous)  QSM-System based
+ #9221 (010090) [S] :Common Robinia (young) Plant type: (Deciduous)  QSM-System based
+ #9222 (010130) [S] :Swedish Whitebeam (young) Plant type: (Deciduous)  QSM-System based
+ #9223 (020111) [S] :Hanging Birch (middle) Plant type: (Deciduous)  QSM-System based
+ #9224 (010111) [S] :Hanging Birch (young) Plant type: (Deciduous)  QSM-System based
+ #9225 (020010) [S] :Little Leaf Lime (middle) Plant type: (Deciduous)  QSM-System based
+ #9226 (010010) [S] :Little Leaf Lime (young) Plant type: (Deciduous)  QSM-System based
+ #9227 (020032) [S] :Sweet Chestnut/Maron (middle) Plant type: (Deciduous)  QSM-System based
+ #9228 (010031) [S] :Bluebell Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9229 (020440) [S] :Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9230 (030440) [S] :Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9231 (010027) [S] :Pine Tree (young) Plant type: (Conifer)  QSM-System based
+ #9232 (020170) [S] :American Gelditschie / Leather Sleeve Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9233 (020037) [S] :Tree of Heaven (middle) Plant type: (Deciduous)  QSM-System based
+ #9234 (020200) [S] :Quaking Aspen (middle) II Plant type: (Deciduous)  QSM-System based
+ #9235 (010430) [S] :Persian Walnut (young) Plant type: (Deciduous)  QSM-System based
+ #9236 (010440) [S] :Common Beech (young) Plant type: (Deciduous)  QSM-System based
+ #9237 (030450) [S] :Beech (old) Plant type: (Deciduous)  QSM-System based
+ #9238 (010721) [S] :Wild Fruit Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9239 (010461) [S] :Englisch Hawthorn Paul's Scarlett (young) Plant type: (Deciduous)  QSM-System based
+ #9240 (020592) [S] :Japanese Pagoda Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9241 (010641) [S] :Indian Bean Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9242 (020652) [S] :Tulip Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9243 (020702) [S] :Willow Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9244 (010700) [S] :Willow Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9245 (010800) [S] :Bird Cherry (young) Plant type: (Deciduous)  QSM-System based
+ #9246 (020810) [S] :Bird Cherry Schloss Tiefurt (middle) Plant type: (Deciduous)  QSM-System based
+ #9247 (010900) [S] :Thuja (young) Plant type: (Conifer)  QSM-System based
+ #9248 (02SSDM) [S] :Spherical, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9249 (02SSDL) [S] :Spherical, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9250 (02SSDS) [S] :Spherical, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9251 (02SMDS) [S] :Spherical, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9252 (02SLDS) [S] :Spherical, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9253 (02SMDM) [S] :Spherical, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9254 (02SMDL) [S] :Spherical, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9255 (02SLDM) [S] :Spherical, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9256 (02SLDL) [S] :Spherical, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9257 (02OSDL) [S] :Cylindric, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9258 (02OLDL) [S] :Cylindric, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9259 (02OSDS) [S] :Cylindric, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9260 (02OSDM) [S] :Cylindric, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9261 (02OMDM) [S] :Cylindric, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9262 (02OMDS) [S] :Cylindric, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9263 (02OMDL) [S] :Cylindric, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9264 (02OLDM) [S] :Cylindric, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9265 (02OLDS) [S] :Cylindric, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9266 (02HLDL) [S] :Heart-shaped, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9267 (02HLDM) [S] :Heart-shaped, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9268 (02HLDS) [S] :Heart-shaped, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9269 (02HMDL) [S] :Heart-shaped, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9270 (02HMDM) [S] :Heart-shaped, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9271 (02HMDS) [S] :Heart-shaped, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9272 (02HSDL) [S] :Heart-shaped, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9273 (02HSDS) [S] :Heart-shaped, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9274 (02HSDM) [S] :Heart-shaped, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9275 (02SSSM) [S] :Spherical, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9276 (02SSSL) [S] :Spherical, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9277 (02SSSS) [S] :Spherical, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9278 (02SMSS) [S] :Spherical, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9279 (02SLSS) [S] :Spherical, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9280 (02SMSM) [S] :Spherical, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9281 (02SMSL) [S] :Spherical, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9282 (02SLSM) [S] :Spherical, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9283 (02SLSL) [S] :Spherical, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9284 (02OSSL) [S] :Cylindric, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9285 (02OLSL) [S] :Cylindric, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9286 (02OSSS) [S] :Cylindric, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9287 (02OSSM) [S] :Cylindric, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9288 (02OMSM) [S] :Cylindric, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9289 (02OMSS) [S] :Cylindric, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9290 (02OMSL) [S] :Cylindric, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9291 (02OLSM) [S] :Cylindric, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9292 (02OLSS) [S] :Cylindric, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9293 (02HLSL) [S] :Heart-shaped, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9294 (02HLSM) [S] :Heart-shaped, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9295 (02HLSS) [S] :Heart-shaped, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9296 (02HMSL) [S] :Heart-shaped, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9297 (02HMSM) [S] :Heart-shaped, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9298 (02HMSS) [S] :Heart-shaped, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9299 (02HSSL) [S] :Heart-shaped, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9300 (02HSSS) [S] :Heart-shaped, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9301 (02HSSM) [S] :Heart-shaped, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9302 (02ALDL) [S] :Conic, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9303 (02CSDS) [S] :Cylindric, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9304 (02AMDM) [S] :Conic, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9305 (02AMDS) [S] :Conic, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9306 (02ALDS) [S] :Conic, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9307 (02AMDL) [S] :Conic, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9308 (02ALDM) [S] :Conic, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9309 (02ASDL) [S] :Conic, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9310 (02ASDM) [S] :Conic, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9311 (02ASDS) [S] :Conic, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9312 (02CLDL) [S] :Cylindric, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9313 (02CSDL) [S] :Cylindric, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9314 (02CMDL) [S] :Cylindric, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9315 (02CMDM) [S] :Cylindric, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9316 (02CMDS) [S] :Cylindric, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9317 (02CLDS) [S] :Cylindric, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9318 (02CSDM) [S] :Cylindric, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9319 (02CLDM) [S] :Cylindric, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9320 (02ALSL) [S] :Conic, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9321 (02CSSS) [S] :Cylindric, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9322 (02AMSM) [S] :Conic, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9323 (02AMSS) [S] :Conic, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9324 (02ALSS) [S] :Conic, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9325 (02AMSL) [S] :Conic, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9326 (02ALSM) [S] :Conic, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9327 (02ASSL) [S] :Conic, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9328 (02ASSM) [S] :Conic, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9329 (02ASSS) [S] :Conic, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9330 (02CLSL) [S] :Cylindric, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9331 (02CSSL) [S] :Cylindric, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9332 (02CMSL) [S] :Cylindric, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9333 (02CMSM) [S] :Cylindric, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9334 (02CMSS) [S] :Cylindric, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9335 (02CLSS) [S] :Cylindric, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9336 (02CSSM) [S] :Cylindric, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9337 (02CLSM) [S] :Cylindric, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ Total: 338 3D plants out of 999 used.
+ -------------------------------------
+-------------------------------------
+Material Database
+-------------------------------------
+:: Getting Material Database (System):  OK. Found 113 items
+:: Getting Material Database (projectdatabase.edb):  OK. Added 0 items
+:: Material Database: Check validity...  OK
+ -------------------------------------
+Material Database
+ -------------------------------------
+ -------------------------------------
+ Wall Material Database: -------------
+ -------------------------------------
+ #1000 (0200PL) [S] :Default Plaster
+ #1001 (0200DP) [S] :Dark Plaster
+ #1002 (0100PL) [S] :LEGACY: Default Plaster
+ #1003 (0100IN) [S] :LEGACY: Default Insulation
+ #1004 (0200IN) [S] :Default Insulation
+ #1005 (0100FC) [S] :LEGACY: Default Ferro-Concrete
+ #1006 (0200FC) [S] :Default Ferro-Concrete
+ #1007 (0100CO) [S] :LEGACY: Default Concrete
+ #1008 (0200CO) [S] :Default Concrete
+ #1009 (010000) [S] :LEGACY: Default Concrete
+ #1010 (0100F1) [S] :LEGACY: good insulation (Ferro-concrete, good insulation, plaster)
+ #1011 (0100F2) [S] :LEGACY: no insulation (brick, plaster)
+ #1012 (0100F3) [S] :LEGACY: moderate insulation (concrete, moderate insulation, plaster)
+ #1013 (0100B1) [S] :LEGACY: Brick: aerated
+ #1014 (0200B1) [S] :Brick: aerated
+ #1015 (0100B2) [S] :LEGACY: Default Brick: burned
+ #1016 (0200B2) [S] :Default Brick: burned
+ #1017 (0200BB) [S] :Bright Brick: burned
+ #1018 (0100B3) [S] :LEGACY: Brick: reinforced
+ #1019 (0200B3) [S] :Brick: reinforced
+ #1020 (0100C1) [S] :LEGACY: Concrete: heavyweight
+ #1021 (0200C1) [S] :Concrete: heavyweight
+ #1022 (0100C2) [S] :LEGACY: Concrete: lightweight
+ #1023 (0200C2) [S] :Concrete: lightweight
+ #1024 (0100C3) [S] :LEGACY: Concrete: hollow block
+ #1025 (0200C3) [S] :Concrete: hollow block
+ #1026 (0100C4) [S] :LEGACY: Concrete: filled block
+ #1027 (0200C4) [S] :Concrete: filled block
+ #1028 (0100C5) [S] :LEGACY: Concrete: cast dense
+ #1029 (0200C5) [S] :Concrete: cast dense
+ #1030 (0100MH) [S] :LEGACY: Masonry: heavyweight
+ #1031 (0200MH) [S] :Masonry: heavyweight
+ #1032 (0100G1) [S] :LEGACY: Heat protection glass
+ #1033 (0200G1) [S] :Heat protection glass
+ #1034 (0100G2) [S] :LEGACY: Plexiglass
+ #1035 (0200G2) [S] :Plexiglass
+ #1036 (0100G3) [S] :LEGACY: foamed glass
+ #1037 (0200G3) [S] :foamed glass
+ #1038 (0100G4) [S] :LEGACY: clear float glass
+ #1039 (0200G4) [S] :clear float glass
+ #1040 (0100G5) [S] :LEGACY: glass brick surface
+ #1041 (0200G5) [S] :glass brick surface
+ #1042 (0100R1) [S] :LEGACY: Roofing: tile
+ #1043 (0200R1) [S] :Roofing: tile
+ #1044 (0100R2) [S] :LEGACY: Roofing: terracotta
+ #1045 (0100AL) [S] :LEGACY: Aluminium
+ #1046 (0200AL) [S] :Aluminium
+ #1047 (0100Cu) [S] :LEGACY: Copper
+ #1048 (0200CU) [S] :Copper
+ #1049 (0100IR) [S] :LEGACY: Iron
+ #1050 (0200IR) [S] :Iron
+ #1051 (0100ST) [S] :LEGACY: Steel
+ #1052 (0200ST) [S] :Steel
+ #1053 (0100PV) [S] :LEGACY: PVC
+ #1054 (0100PC) [S] :LEGACY: Concrete, Photoactive
+ #1055 (0100O2) [S] :LEGACY: Air
+ #1056 (0200O2) [S] :Air
+ #1057 (0100WC) [S] :LEGACY: Concrete: lightweight and wet
+ #1058 (0200WC) [S] :Concrete: lightweight and wet
+ #1059 (0100SG) [S] :LEGACY: Shading Plexiglass
+ #1060 (0200SG) [S] :Shading Plexiglass
+ #1061 (0100BR) [S] :LEGACY: Default Brick: burned
+ #1062 (0200BR) [S] :Default Brick: burned
+ #1063 (0000PL) [S] :LEGACY: Default Plaster
+ #1064 (0000IN) [S] :LEGACY: Default Insulation
+ #1065 (000000) [S] :Default Concrete
+ #1066 (0000CO) [S] :LEGACY: Default Concrete
+ #1067 (0000F1) [S] :LEGACY: good insulation
+ #1068 (0000F2) [S] :LEGACY: no insulation
+ #1069 (0000F3) [S] :LEGACY: moderate insulation
+ #1070 (0000B1) [S] :LEGACY: Brick: aerated
+ #1071 (0000B2) [S] :LEGACY: Default Brick: burned
+ #1072 (0000B3) [S] :LEGACY: Brick: reinforced
+ #1073 (0000C1) [S] :LEGACY: Concrete: heavyweight
+ #1074 (0000C2) [S] :LEGACY: Concrete: lightweight
+ #1075 (0000C3) [S] :LEGACY: Concrete: hollow block
+ #1076 (0000C4) [S] :LEGACY: Concrete: filled block
+ #1077 (0000C5) [S] :LEGACY: Concrete: cast dense
+ #1078 (0000MH) [S] :LEGACY: Masonry: heavyweight
+ #1079 (0000G1) [S] :LEGACY: Heat protection glass
+ #1080 (0000G2) [S] :LEGACY: Plexiglass
+ #1081 (0000G3) [S] :LEGACY: foamed glass
+ #1082 (0000G4) [S] :LEGACY: clear float glass
+ #1083 (0000G5) [S] :LEGACY: glass brick surface
+ #1084 (0000R1) [S] :LEGACY: Roofing: tile
+ #1085 (0000R2) [S] :LEGACY: Roofing: terracotta
+ #1086 (0000AL) [S] :LEGACY: Aluminium
+ #1087 (0000Cu) [S] :LEGACY: Copper
+ #1088 (0000IR) [S] :LEGACY: Iron
+ #1089 (0000ST) [S] :LEGACY: Steel
+ #1090 (0000PV) [S] :LEGACY: PVC
+ #1091 (0000PC) [S] :LEGACY: Concrete, Photoactive
+ #1092 (0000O2) [S] :LEGACY: Air
+ #1093 (0000WC) [S] :LEGACY: Concrete: lightweight and wet
+ #1094 (0000SG) [S] :LEGACY: Shading Plexiglass
+ #1095 (0000BK) [S] :LEGACY: Brick: burned
+ #1096 (0210CG) [S] :Concrete to Glass ratio: 90 to 10
+ #1097 (0210IG) [S] :Insulation to Glass ratio: 90 to 10
+ #1098 (0210BG) [S] :Burned Brick to Glass ratio: 90 to 10
+ #1099 (0210TG) [S] :Roof Tile to Glass ratio: 90 to 10
+ #1100 (0210PG) [S] :Plaster to Glass ratio: 90 to 10
+ #1101 (0230CG) [S] :Concrete to Glass ratio: 70 to 30
+ #1102 (0230IG) [S] :Insulation to Glass ratio: 70 to 30
+ #1103 (0230BG) [S] :Burned Brick to Glass ratio: 70 to 30
+ #1104 (0230TG) [S] :Roof Tile to Glass ratio: 70 to 30
+ #1105 (0230PG) [S] :Plaster to Glass ratio: 70 to 30
+ #1106 (0250CG) [S] :Concrete to Glass ratio: 50 to 50
+ #1107 (0250IG) [S] :Insulation to Glass ratio: 50 to 50
+ #1108 (0250BG) [S] :Burned Brick to Glass ratio: 50 to 50
+ #1109 (0250TG) [S] :Roof Tile to Glass ratio: 50 to 50
+ #1110 (0250PG) [S] :Plaster to Glass ratio: 50 to 50
+ #1111 (0200PV) [S] :PVC
+ #1112 (0PHOTO) [S] :Photovoltaic
+ Total: 113 Materials out of 999 used.
+ -------------------------------------
+-------------------------------------
+Wall Database
+-------------------------------------
+:: Getting Wall Database (System):  OK. Found 83 items
+:: Getting Wall Database (projectdatabase.edb):  OK. Added 0 items
+:: Wall Database: Check validity...  OK
+ -------------------------------------
+Wall Database
+ -------------------------------------
+ #7000 (0100F1) [S] :LEGACY: Passive wall - good insulation Materials: |0100F1|0100F1|0100F1| Thickness: 0.4900 m, Transmission: 0.00
+ #7001 (0100F2) [S] :LEGACY: Wall - no insulation Materials: |0100F2|0100F2|0100F2| Thickness: 0.4100 m, Transmission: 0.00
+ #7002 (0100F3) [S] :LEGACY: Wall - moderate insulation Materials: |0100F3|0100F3|0100F3| Thickness: 0.3100 m, Transmission: 0.00
+ #7003 (0100MI) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7004 (0200MI) [S] :Default Wall - moderate insulation Materials: |0200PL|0200IN|0200CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7005 (010000) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7006 (0100SU) [S] :LEGACY: PVC Sun Sail Materials: |0000PV|0000PV|0000PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7007 (0200SU) [S] :PVC Sun Sail Materials: |0200PV|0200PV|0200PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7008 (0100PC) [S] :LEGACY: Concrete Wall, Photoactive Materials: |0000PC|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7009 (0100C1) [S] :LEGACY: Concrete Wall (heavy) Materials: |0000C1|0000C1|0000C1| Thickness: 0.3000 m, Transmission:0.00
+ #7010 (0200C1) [S] :Concrete Wall (heavy) Materials: |0200C1|0200C1|0200C1| Thickness: 0.3000 m, Transmission: 0.00
+ #7011 (0100C2) [S] :LEGACY: Concrete wall (light weight) Materials: |0000C2|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7012 (0200C2) [S] :Concrete wall (light weight) Materials: |0200C2|0200C2|0200C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7013 (0100C3) [S] :LEGACY: Concrete wall (hollow block) Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7014 (0200C3) [S] :Concrete wall (hollow block) Materials: |0200C3|0200C3|0200C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7015 (0100C4) [S] :LEGACY: Concrete wall (Filled block) Materials: |0000C4|0000C4|0000C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7016 (0200C4) [S] :Concrete wall (Filled block) Materials: |0200C4|0200C4|0200C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7017 (0100C5) [S] :LEGACY: Concrete Wall (cast dense) Materials: |0000C5|0000C5|0000C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7018 (0200C5) [S] :Concrete Wall (cast dense) Materials: |0200C5|0200C5|0200C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7019 (0100G1) [S] :LEGACY: Heat Protection Glass (one layer Materials: |0000G1|0000G1|0000G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7020 (0200G1) [S] :Heat Protection Glass (one layered) Materials: |0200G1|0200G1|0200G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7021 (0100G2) [S] :LEGACY: Plexiglass (one layered) Materials: |0000G2|0000G2|0000G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7022 (0200G2) [S] :Plexiglass (one layered) Materials: |0200G2|0200G2|0200G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7023 (0100G3) [S] :LEGACY: Foamed Glass (one layered) Materials: |0000G3|0000G3|0000G3| Thickness: 0.0300 m, Transmission: 0.06
+ #7024 (0200G3) [S] :Foamed Glass (one layered) Materials: |0200G3|0200G3|0200G3| Thickness: 0.0300 m, Transmission: 0.00
+ #7025 (0100G4) [S] :LEGACY: Clear Float glass (one layered) Materials: |0000G4|0000G4|0000G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7026 (0200G4) [S] :Clear Float glass (one layered) Materials: |0200G4|0200G4|0200G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7027 (0100G5) [S] :LEGACY: Glass Bricks (one layered) Materials: |0000G5|0000O2|0000G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7028 (0200G5) [S] :Glass Bricks (one layered) Materials: |0200G5|0200O2|0200G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7029 (0100AL) [S] :LEGACY: Aluminium (single layer) Materials: |0000Al|0000Al|0000Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7030 (0200AL) [S] :Aluminium (single layer) Materials: |0200Al|0200Al|0200Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7031 (0100CU) [S] :LEGACY: Copper (single layer) Materials: |0000Cu|0000Cu|0000Cu| Thickness: 0.0300 m, Transmission:0.00
+ #7032 (0200CU) [S] :Copper (single layer) Materials: |0200Cu|0200Cu|0200Cu| Thickness: 0.0300 m, Transmission: 0.00
+ #7033 (0100IR) [S] :LEGACY: Iron (single layer) Materials: |0000IR|0000IR|0000IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7034 (0200IR) [S] :Iron (single layer) Materials: |0200IR|0200IR|0200IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7035 (0100ST) [S] :LEGACY: Steel (one layer) Materials: |0000ST|0000ST|0000ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7036 (0200ST) [S] :Steel (one layer) Materials: |0200ST|0200ST|0200ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7037 (0100B1) [S] :LEGACY: Brick wall (aerated) Materials: |0000B1|0000B1|0000B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7038 (0200B1) [S] :Brick wall (aerated) Materials: |0200B1|0200B1|0200B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7039 (0100B2) [S] :LEGACY: Brick wall (burned) Materials: |0000B2|0000B2|0000B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7040 (0200B2) [S] :Brick wall (burned) Materials: |0200B2|0200B2|0200B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7041 (0100B3) [S] :LEGACY: Brick wall (reinforced) Materials: |0000B3|0000B3|0000B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7042 (0200B3) [S] :Brick wall (reinforced) Materials: |0200B3|0200B3|0200B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7043 (0100R1) [S] :LEGACY: Roofing: Tile Materials: |0000R1|0000R1|0000R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7044 (0200R1) [S] :Roofing: Tile Materials: |0200R1|0200R1|0200R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7045 (0100R2) [S] :LEGACY: Roofing: Terracotta Materials: |0000R2|0000R2|0000R2| Thickness: 0.3000 m, Transmission: 0.00
+ #7046 (0100GH) [S] :LEGACY: Heat protection glass (one air l Materials: |0000G1|0000O2|0000G1| Thickness: 1.5000 m, Transmission: 0.81
+ #7047 (0200GH) [S] :Heat protection glass (one air layer) Materials: |0200G1|0200O2|0200G1| Thickness: 0.0700 m, Transmission: 0.81
+ #7048 (0100WR) [S] :LEGACY: WetRoof Materials: |0000WC|0000C2|0000C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7049 (0200WR) [S] :WetRoof Materials: |0200WC|0200C2|0200C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7050 (0100SG) [S] :LEGACY: Shading Plexiglass Materials: |0000SG|0000SG|0000O2| Thickness: 0.0300 m, Transmission: 0.49
+ #7051 (0200SG) [S] :Shading Plexiglass Materials: |0200SG|0200SG|0200SG| Thickness: 0.0300 m, Transmission: 0.22
+ #7052 (0000CS) [S] :LEGACY: Concrete slab (hollow block, def Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7053 (0000F1) [S] :LEGACY: Passive wall - good insulation Materials: |0000F1|0000F1|0000F1| Thickness: 0.4900 m, Transmission: 0.00
+ #7054 (0000F2) [S] :LEGACY: Wall - no insulation Materials: |0000F2|0000F2|0000F2| Thickness: 0.4100 m, Transmission: 0.00
+ #7055 (0000F3) [S] :LEGACY: Wall - moderate insulation Materials: |0000F3|0000F3|0000F3| Thickness: 0.3100 m, Transmission: 0.00
+ #7056 (000000) [S] :Default Wall - moderate insulation Materials: |0200PL|0200IN|0200CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7057 (0000MI) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7058 (0000SU) [S] :LEGACY: PVC Sun Sail Materials: |0000PV|0000PV|0000PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7059 (0000PC) [S] :LEGACY: Concrete Wall, Photoactive Materials: |0000PC|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7060 (0000C1) [S] :LEGACY: Concrete Wall (heavy) Materials: |0000C1|0000C1|0000C1| Thickness: 0.3000 m, Transmission:0.00
+ #7061 (0000C2) [S] :LEGACY: Concrete wall (light weight) Materials: |0000C2|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7062 (0000C3) [S] :LEGACY: Concrete wall (hollow block) Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7063 (0000C4) [S] :LEGACY: Concrete wall (Filled block) Materials: |0000C4|0000C4|0000C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7064 (0000C5) [S] :LEGACY: Concrete Wall (cast dense) Materials: |0000C5|0000C5|0000C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7065 (0000G1) [S] :LEGACY: Heat Protection Glass (one layer Materials: |0000G1|0000G1|0000G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7066 (0000G2) [S] :LEGACY: Plexiglass (one layered) Materials: |0000G2|0000G2|0000G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7067 (0000G3) [S] :LEGACY: Foamed Glass (one layered) Materials: |0000G3|0000G3|0000G3| Thickness: 0.0300 m, Transmission: 0.06
+ #7068 (0000G4) [S] :LEGACY: Clear Float glass (one layered) Materials: |0000G4|0000G4|0000G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7069 (0000G5) [S] :LEGACY: Glass Bricks (one layered) Materials: |0000G5|0000O2|0000G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7070 (0000AL) [S] :LEGACY: Aluminium (single layer) Materials: |0000Al|0000Al|0000Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7071 (0000CU) [S] :LEGACY: Copper (single layer) Materials: |0000Cu|0000Cu|0000Cu| Thickness: 0.0300 m, Transmission:0.00
+ #7072 (0000IR) [S] :LEGACY: Iron (single layer) Materials: |0000IR|0000IR|0000IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7073 (0000ST) [S] :LEGACY: Steel (one layer) Materials: |0000ST|0000ST|0000ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7074 (0000B1) [S] :LEGACY: Brick wall (aerated) Materials: |0000B1|0000B1|0000B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7075 (0000B2) [S] :LEGACY: Brick wall (burned) Materials: |0000B2|0000B2|0000B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7076 (0000B3) [S] :LEGACY: Brick wall (reinforced) Materials: |0000B3|0000B3|0000B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7077 (0000R1) [S] :LEGACY: Roofing: Tile Materials: |0000R1|0000R1|0000R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7078 (0000R2) [S] :LEGACY: Roofing: Terracotta Materials: |0000R2|0000R2|0000R2| Thickness: 0.3000 m, Transmission: 0.00
+ #7079 (0000GH) [S] :LEGACY: Heat protection glass (one air l Materials: |0000G1|0000O2|0000G1| Thickness: 1.5000 m, Transmission: 0.81
+ #7080 (0000WR) [S] :LEGACY: WetRoof Materials: |0000WC|0000C2|0000C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7081 (0000SG) [S] :LEGACY: Shading Plexiglass Materials: |0000SG|0000SG|0000O2| Thickness: 0.0300 m, Transmission: 0.49
+ #7082 (0200PW) [S] :Photovoltaic Concrete Insulation Wall Materials: |0PHOTO|0200IN|0200CO| Thickness: 0.3500 m, Transmission: 0.00
+ Total: 83 Walls out of 999 used.
+ -------------------------------------
+-------------------------------------
+Single Wall Database
+-------------------------------------
+:: Getting Single Wall Database (System):  OK. Found 5 items
+:: Getting Single Wall Database (projectdatabase.edb):  OK. Added 0 items
+:: Single Wall Database: Check validity...  OK
+ -------------------------------------
+Single Wall Database
+ -------------------------------------
+ #4000 (000001) [S] :LEGACY: SunSail Material: |0000PV|
+ #4001 (02000S) [S] :SunSail Material: |0200PV|
+ #4002 (0000BW) [S] :LEGACY: BrickWall Material: |0000B2|
+ #4003 (0200BW) [S] :BrickWall Material: |0200B2|
+ #4004 (0200PV) [S] :Photovoltaic Panel Material: |0PHOTO|
+ Total: 5 single walls out of 999 used.
+ -------------------------------------
+-------------------------------------
+Greenings Database
+-------------------------------------
+:: Getting Greenings Database (System):  OK. Found 8 items
+:: Getting Greenings Database (projectdatabase.edb):  OK. Added 0 items
+:: Greenings Database: Check validity...  OK
+ -------------------------------------
+Greenings Database
+ -------------------------------------
+ #11000 (01NAFG) [S] :LEGACY: only green SimplePlant: [0100IV] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11001 (02NAFG) [S] :only green SimplePlant: [0100IV] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11002 (01NASS) [S] :LEGACY: green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11003 (01NADS) [S] :LEGACY: green + mixed substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SY|
+ #11004 (01AGSS) [S] :LEGACY: green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11005 (02AGSS) [S] :green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0200SL|0200SL|0200SY|
+ #11006 (01AGDS) [S] :LEGACY: green + mixed substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SY|
+ #11007 (02AGDS) [S] :green + sandy substrate SimplePlant: [0100FU] Soil Substrate: |0200SD|0200SD|0200SY|
+ Total: 8 Greenings out of 900 used.
+ -------------------------------------
+_________________________________________________________________________________________
+%% Parsing: "C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds.simx" ...
+:: ------------------------------------------------------
+:: Model Loader: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx. Getting file....
+:: ------------------------------------------------------
+::  Model Description: A brave new area
+::  Model Author: Grasshopper envimet
+::  Model_loader: Getting memory...
+::  Model_loader: Clear memory...
+::  Model_loader: Buildings 2D...
+::  Model_loader: Simple plants (Matrix)...
+::  Model_loader: 3D Plants...
+::  Model_loader: Soil Profiles...
+::  Model_loader: DEM...
+::  Model_loader: Detailed Building List...
+::                 Building List: Defines 1 Building(s)
+::                 -----------------------------------
+::                 ! Greening not supported in LITE !
+::                 -----------------------------------
+::  Model_loader: Finished, cleaning up...
+:: ------------------------------------------------------
+:: ------------------------------------------------------
+:: Evaluating Output Path Settings...
+**  Final Output Path: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\
+**  Final Output Dir: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output
+:: ------------------------------------------------------
+SimID: Z25loSpScJ
+_________________________________________________________________________________________
+Registering simulation as DESKTOP-7UI3F9D_07-04-2025_19.25.18
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+Checking/Setting up folder structure...
+:: Root output folder requested by simulation: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\log | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\inputData | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\inflow | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\soil | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\surface | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\atmosphere | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\windclimate | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\radiation | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\buildings | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\buildings\static | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\vegetation | (Missing, Folder Created)
+  ... Checking:C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\SimpleCaseIncreasedBoundarySimulationWithClouds_output\vegetation\static | (Missing, Folder Created)
+_________________________________________________________________________________________
+------------------------------------------
+ ENVI_met Parallel Computing CPU
+------------------------------------------
+Summary of CPU core usage ....
+  Nr CPU cores installed: 16
+  Nr CPU threads available: 32
+  Nr CPU cores used     : 1
+  Nr CPU threads reserved: 2
+-------------------------------------------------------------------------------------
+_________________________________________________________________________________________
+-------------------------------------------------------------------------------------
+ ENVI_met Database System (c) ENVI-MET GmbH Essen 2015,2023
+-------------------------------------------------------------------------------------
+Setting up DB System....
+  + System Database: C:\ENVImet5\sys.basedata\database.edb
+  + User/ Project Database: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\projectdatabase.edb
+-------------------------------------------------------------------------------------
+-------------------------------------
+Soil Database
+-------------------------------------
+:: Getting Soil Database (System):  OK. Found 46 items
+:: Getting Soil Database (projectdatabase.edb):  OK. Added 0 items
+:: Soil Database: Check validity...  OK
+ -------------------------------------
+Soil Database
+ -------------------------------------
+ #5000 (0000SD) [S] :LEGACY: Sand Soil type: natural soil
+ #5001 (0200SD) [S] :Sand Soil type: natural soil
+ #5002 (0000BS) [S] :LEGACY: Smashed brick Soil type: natural soil
+ #5003 (0200BS) [S] :Smashed brick Soil type: natural soil
+ #5004 (0000LS) [S] :LEGACY: Loamy Sand Soil type: natural soil
+ #5005 (0200LS) [S] :Loamy Sand Soil type: natural soil
+ #5006 (0000SL) [S] :LEGACY: Sandy Loam Soil type: natural soil
+ #5007 (0200SL) [S] :Sandy Loam Soil type: natural soil
+ #5008 (0000SO) [S] :LEGACY: Silt Loam Soil type: natural soil
+ #5009 (0200SO) [S] :Silt Loam Soil type: natural soil
+ #5010 (0000LE) [S] :LEGACY: Loam Soil type: natural soil
+ #5011 (0200LE) [S] :Loam Soil type: natural soil
+ #5012 (0000TS) [S] :LEGACY: Sandy Clay Loam Soil type: natural soil
+ #5013 (0200TS) [S] :Sandy Clay Loam Soil type: natural soil
+ #5014 (0000TL) [S] :LEGACY: Silty Clay Loam Soil type: natural soil
+ #5015 (0200TL) [S] :Silty Clay Loam Soil type: natural soil
+ #5016 (0000LT) [S] :LEGACY: Clay Loam Soil type: natural soil
+ #5017 (0200LT) [S] :Clay Loam Soil type: natural soil
+ #5018 (0000ST) [S] :LEGACY: Sandy Clay Soil type: natural soil
+ #5019 (0200ST) [S] :Sandy Clay Soil type: natural soil
+ #5020 (0000TO) [S] :LEGACY: Clay Soil type: natural soil
+ #5021 (0200TO) [S] :Clay Soil type: natural soil
+ #5022 (0000TF) [S] :LEGACY: Peat Soil type: natural soil
+ #5023 (0200TF) [S] :Peat Soil type: natural soil
+ #5024 (0000ZB) [S] :LEGACY: Cement Concrete Soil type: artificial soil
+ #5025 (0200ZB) [S] :Cement Concrete Soil type: artificial soil
+ #5026 (0000MB) [S] :LEGACY: Mineral Concrete Soil type: artificial soil
+ #5027 (0200MB) [S] :Mineral Concrete Soil type: artificial soil
+ #5028 (0000AK) [S] :LEGACY: Asphalt (with Gravel) Soil type: artificial soil
+ #5029 (0200AK) [S] :Asphalt (with Gravel) Soil type: artificial soil
+ #5030 (0000AB) [S] :LEGACY: Asphalt (with Basalt) Soil type: artificial soil
+ #5031 (0200AB) [S] :Asphalt (with Basalt) Soil type: artificial soil
+ #5032 (0000GR) [S] :LEGACY: Granite Soil type: artificial soil
+ #5033 (0200GR) [S] :Granite Soil type: artificial soil
+ #5034 (0000BA) [S] :LEGACY: Basalt Soil type: artificial soil
+ #5035 (0200BA) [S] :Basalt Soil type: artificial soil
+ #5036 (0000WW) [S] :LEGACY: Water Soil type: water body
+ #5037 (0200WW) [S] :Water Soil type: water body
+ #5038 (0000BR) [S] :LEGACY: Brick Soil type: artificial soil
+ #5039 (0200BR) [S] :Brick Soil type: artificial soil
+ #5040 (0000CC) [S] :LEGACY: Mineral concrete wet Soil type: artificial soil
+ #5041 (0200CC) [S] :Mineral concrete wet Soil type: artificial soil
+ #5042 (0000WD) [S] :LEGACY: Wood Planks Soil type: artificial soil
+ #5043 (0200WD) [S] :Wood Planks Soil type: artificial soil
+ #5044 (0000SY) [S] :LEGACY: Styrofoam Soil type: artificial soil
+ #5045 (0200SY) [S] :Styrofoam Soil type: artificial soil
+ Total: 46 soils out of 999 used.
+ -------------------------------------
+-------------------------------------
+Soil Profile Database
+-------------------------------------
+:: Getting Soil Profile Database (System):  OK. Found 62 items
+:: Getting Soil Profile Database (projectdatabase.edb):  OK. Added 0 items
+:: Soil Profile Database: Check validity...  OK
+ -------------------------------------
+Soil Profile Database
+ -------------------------------------
+ #2000 (CELLAR) [S] :Default soil profile underneath a building Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-0200ZB-(...)]
+ #2001 (010000) [S] :LEGACY: Default Unsealed Soil (Sandy Loam) Soils: [0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2002 (0100SL) [S] :LEGACY: Default Unsealed Soil (Sandy Loam) Soils: [0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2003 (0200SL) [S] :Default Unsealed Soil (Sandy Loam) Soils: [0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2004 (0000LS) [S] :LEGACY: Unsealed Soil (Loamy Soil) Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2005 (0000ST) [S] :LEGACY: Asphalt Road Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000LE-(...)]
+ #2006 (0100ST) [S] :LEGACY: Asphalt Road Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000AB-0000SL-(...)]
+ #2007 (0200ST) [S] :Asphalt Road Soils: [0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200SL-(...)]
+ #2008 (0100PP) [S] :LEGACY: Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2009 (0200PP) [S] :Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2010 (0000PP) [S] :LEGACY: Pavement (Concrete), used/ dirty Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2011 (000000) [S] :Default Sandy Loam Soils: [0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2012 (0000LO) [S] :LEGACY: Loamy Soil Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2013 (0100LO) [S] :LEGACY: Loamy Soil Soils: [0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2014 (0200LO) [S] :Loamy Soil Soils: [0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-0200LE-(...)]
+ #2015 (0000SD) [S] :LEGACY: Sandy Soil Soils: [0000SD-0000SD-0000SD-0000SD-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2016 (0100SD) [S] :LEGACY: Sandy Soil Soils: [0000SD-0000SD-0000SD-0000SD-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2017 (0200SD) [S] :Sandy Soil Soils: [0200SD-0200SD-0200SD-0200SD-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2018 (0000WW) [S] :LEGACY: Deep Water Soils: [0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-(...)]
+ #2019 (0100WW) [S] :LEGACY: Deep Water Soils: [0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-0000WW-(...)]
+ #2020 (0200WW) [S] :Deep Water Soils: [0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-0200WW-(...)]
+ #2021 (0000KK) [S] :LEGACY: Brick road (red stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2022 (0100KK) [S] :LEGACY: Brick road (red stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2023 (0200KK) [S] :Brick road (red stones) Soils: [0200BR-0200BR-0200BR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2024 (0000KG) [S] :LEGACY: Brick road (yellow stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2025 (0100KG) [S] :LEGACY: Brick road (yellow stones) Soils: [0000BR-0000BR-0000BR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2026 (0200KG) [S] :Brick road (yellow stones) Soils: [0200BR-0200BR-0200BR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2027 (0000GG) [S] :LEGACY: Dark Granit Pavement Soils: [0000GR-0000GR-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2028 (0100GG) [S] :LEGACY: Dark Granit Pavement Soils: [0000GR-0000GR-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2029 (0200GG) [S] :Dark Granit Pavement Soils: [0200GR-0200GR-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2030 (0000GS) [S] :LEGACY: Granit Pavement (single stones) Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000MB-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2031 (0100GS) [S] :LEGACY: Granit Pavement (single stones) Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000MB-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2032 (0200GS) [S] :Granit Pavement (single stones) Soils: [0200GR-0200GR-0200GR-0200GR-0200GR-0200MB-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2033 (0000G2) [S] :LEGACY: Granit shining Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2034 (0100G2) [S] :LEGACY: Granit shining Soils: [0000GR-0000GR-0000GR-0000GR-0000GR-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2035 (0200G2) [S] :Granit shining Soils: [0200GR-0200GR-0200GR-0200GR-0200GR-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2036 (0000WC) [S] :LEGACY: Wet Concrete TEST Soils: [0000CC-0000CC-0000CC-0000CC-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2037 (0100WC) [S] :LEGACY: Wet Concrete TEST Soils: [0000CC-0000CC-0000CC-0000CC-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2038 (0000PC) [S] :LEGACY: PhotocatTest Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2039 (0100PC) [S] :LEGACY: PhotocatTest Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2040 (0000PG) [S] :LEGACY: Concrete Pavement Gray Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2041 (0100PG) [S] :LEGACY: Concrete Pavement Gray Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2042 (0200PG) [S] :Concrete Pavement Gray Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2043 (0000PL) [S] :LEGACY: Concrete Pavement Light Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2044 (0100PL) [S] :LEGACY: Concrete Pavement Light Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2045 (0200PL) [S] :Concrete Pavement Light Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2046 (0000PD) [S] :LEGACY: Concrete Pavement Dark Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000LE-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2047 (0100PD) [S] :LEGACY: Concrete Pavement Dark Soils: [0000ZB-0000ZB-0000ZB-0000ZB-0000SD-0000SL-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2048 (0200PD) [S] :Concrete Pavement Dark Soils: [0200ZB-0200ZB-0200ZB-0200ZB-0200SD-0200SL-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2049 (0000TB) [S] :LEGACY: Terre battue (Smashed brick) Soils: [0000BS-0000BS-0000BS-0000SD-0000LS-0000LS-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2050 (0100TB) [S] :LEGACY: Terre battue (Smashed brick) Soils: [0000BS-0000BS-0000BS-0000SD-0000LS-0000LS-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2051 (0000AR) [S] :LEGACY: Asphalt road with red coating Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AK-0000AB-0000AB-0000AB-0000AB-(...)]
+ #2052 (0100AR) [S] :LEGACY: Asphalt road with red coating Soils: [0000AB-0000AB-0000AB-0000AB-0000AB-0000AK-0000AB-0000AB-0000AB-0000AB-(...)]
+ #2053 (0200AR) [S] :Asphalt road with red coating Soils: [0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-0200AB-(...)]
+ #2054 (0000BA) [S] :LEGACY: Basalt Brick Road Soils: [0000BA-0000BA-0000BA-0000BA-0000BA-0000SD-0000LE-0000LE-0000LE-0000LE-(...)]
+ #2055 (0100BA) [S] :LEGACY: Basalt Brick Road Soils: [0000BA-0000BA-0000BA-0000BA-0000BA-0000SD-0000SL-0000SL-0000SL-0000SL-(...)]
+ #2056 (0200BA) [S] :Basalt Brick Road Soils: [0200BA-0200BA-0200BA-0200BA-0200BA-0200SD-0200SL-0200SL-0200SL-0200SL-(...)]
+ #2057 (0000WD) [S] :LEGACY: Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000LE-(...)]
+ #2058 (0100WD) [S] :LEGACY: Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000SL-(...)]
+ #2059 (0200WD) [S] :Wood Planks Soils: [0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200SD-0200LS-0200SL-(...)]
+ #2060 (0100DW) [S] :LEGACY: Darker Wood Planks Soils: [0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000WD-0000SD-0000LS-0000SL-(...)]
+ #2061 (0200DW) [S] :Darker Wood Planks Soils: [0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200WD-0200SD-0200LS-0200SL-(...)]
+ Total: 62 soil profiles out of 999 used.
+ -------------------------------------
+-------------------------------------
+Sources Database
+-------------------------------------
+:: Getting Sources Database (System):  OK. Found 5 items
+:: Getting Sources Database (projectdatabase.edb):  OK. Added 0 items
+:: Sources Database: Check validity...  OK
+ -------------------------------------
+Sources Database
+ -------------------------------------
+ #6000 (0200DR) [S] :Test Lane Source type: Line
+ #6001 (0000DR) [S] :LEGACY: Test Lane Source type: Line
+ #6002 (0200FT) [S] :Water Fountain 4 m Source type: Point
+ #6003 (0200WN) [S] :Water Nozzle 2 m Source type: Point
+ #6004 (0000FT) [S] :LEGACY: Water Fountain 4 m Source type: Point
+ Total: 5 sources out of 999 used.
+ -------------------------------------
+-------------------------------------
+Simple Plant Database
+-------------------------------------
+:: Getting Simple Plant Database (System):  OK. Found 36 items
+:: Getting Simple Plant Database (projectdatabase.edb):  OK. Added 0 items
+:: Simple Plant Database: Check validity...  OK
+ -------------------------------------
+Simple Plant Database
+ -------------------------------------
+ #8000 (0000XX) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8001 (000000) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8002 (0000SO) [S] :LEGACY: soja 90. soja 63cm Plant type: (Grass)
+ #8003 (0000LG) [S] :LEGACY: luzerne 18cm Plant type: (Grass)
+ #8004 (0000SM) [S] :LEGACY: Tree 20 m very dense, distinct crown layer Plant type: (Deciduous)
+ #8005 (0000SK) [S] :LEGACY: Tree 15 m very dense, distinct crown layer Plant type: (Deciduous)
+ #8006 (0000S1) [S] :LEGACY: Tree 15 m medium dense, distinct crown layer Plant type: (Deciduous)
+ #8007 (0000H2) [S] :LEGACY: Hedge dense, 2m Plant type: (Deciduous)
+ #8008 (0000T1) [S] :LEGACY: Tree 10 m very dense, leafless base Plant type: (Deciduous)
+ #8009 (0000T0) [S] :LEGACY: Tree 10 m medium dense, leafless base Plant type: (Deciduous)
+ #8010 (0000GG) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8011 (0000BS) [S] :LEGACY: Tree 20 m medium dense.,distinct crown layer Plant type: (Deciduous)
+ #8012 (0000SC) [S] :LEGACY: Tree 20 m very dense, free stem crown layer Plant type: (Deciduous)
+ #8013 (010000) [S] :LEGACY: Funkia (Hosta) Plant type: (Deciduous)
+ #8014 (0100XY) [S] :LEGACY: Grass 50 cm aver. dense Plant type: (Grass)
+ #8015 (0200XY) [S] :Grass 50 cm aver. dense Plant type: (Grass)
+ #8016 (0100XX) [S] :LEGACY: Grass 25 cm aver. dense Plant type: (Grass)
+ #8017 (0200XX) [S] :Grass 25 cm aver. dense Plant type: (Grass)
+ #8018 (0100SO) [S] :LEGACY: Soja 63cm Plant type: (Grass)
+ #8019 (0200SO) [S] :Soja 63cm Plant type: (Grass)
+ #8020 (0100LG) [S] :LEGACY: Luzerne 18cm Plant type: (Grass)
+ #8021 (0200LG) [S] :Luzerne 18cm Plant type: (Grass)
+ #8022 (0100H2) [S] :LEGACY: Hedge dense, 2m Plant type: (Deciduous)
+ #8023 (0200H2) [S] :Hedge dense, 2m Plant type: (Deciduous)
+ #8024 (0201H2) [S] :Hedge light, 2m Plant type: (Deciduous)
+ #8025 (0200H1) [S] :Hedge dense, 1m Plant type: (Deciduous)
+ #8026 (0201H1) [S] :Hedge light, 1m Plant type: (Deciduous)
+ #8027 (0100H4) [S] :LEGACY: Hedge dense, 4m Plant type: (Deciduous)
+ #8028 (0200H4) [S] :Hedge dense, 4m Plant type: (Deciduous)
+ #8029 (0201H4) [S] :Hedge light, 4m Plant type: (Deciduous)
+ #8030 (0100IV) [S] :LEGACY: Ivy (Hedera helix) Plant type: (Deciduous)
+ #8031 (0200IV) [S] :Ivy (Hedera helix) Plant type: (Deciduous)
+ #8032 (0100FE) [S] :LEGACY: Fern (Nephrolepis) Plant type: (Deciduous)
+ #8033 (0200FE) [S] :Fern (Nephrolepis) Plant type: (Deciduous)
+ #8034 (0100FU) [S] :LEGACY: Funkia (Hosta) Plant type: (Deciduous)
+ #8035 (0200FU) [S] :Funkia (Hosta) Plant type: (Deciduous)
+ Total: 36 simple plants out of 999 used.
+ -------------------------------------
+-------------------------------------
+3D Plant Database
+-------------------------------------
+:: Getting 3D Plant Database (System):  OK. Found 338 items
+:: Getting 3D Plant Database (projectdatabase.edb):  OK. Added 0 items
+:: 3D Plant Database: Check validity...  OK
+ -------------------------------------
+3D Plant Database
+ -------------------------------------
+ #9000 (ED00NN) [S] :Example Tree Plant type: (Deciduous)
+ #9001 (01SSDM) [S] :LEGACY: Spherical, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9002 (01SSDL) [S] :LEGACY: Spherical, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9003 (01SSDS) [S] :LEGACY: Spherical, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9004 (01SMDS) [S] :LEGACY: Spherical, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9005 (01SLDS) [S] :LEGACY: Spherical, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9006 (01SMDM) [S] :LEGACY: Spherical, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9007 (01SMDL) [S] :LEGACY: Spherical, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9008 (01SLDM) [S] :LEGACY: Spherical, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9009 (01SLDL) [S] :LEGACY: Spherical, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9010 (01OSDL) [S] :LEGACY: Cylindric, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9011 (01OLDL) [S] :LEGACY: Cylindric, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9012 (01OSDS) [S] :LEGACY: Cylindric, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9013 (01OSDM) [S] :LEGACY: Cylindric, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9014 (01OMDM) [S] :LEGACY: Cylindric, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9015 (01OMDS) [S] :LEGACY: Cylindric, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9016 (01OMDL) [S] :LEGACY: Cylindric, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9017 (01OLDM) [S] :LEGACY: Cylindric, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9018 (01OLDS) [S] :LEGACY: Cylindric, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9019 (01HLDL) [S] :LEGACY: Heart-shaped, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9020 (01HLDM) [S] :LEGACY: Heart-shaped, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9021 (01HLDS) [S] :LEGACY: Heart-shaped, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9022 (01HMDL) [S] :LEGACY: Heart-shaped, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9023 (01HMDM) [S] :LEGACY: Heart-shaped, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9024 (01HMDS) [S] :LEGACY: Heart-shaped, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9025 (01HSDL) [S] :LEGACY: Heart-shaped, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9026 (01HSDS) [S] :LEGACY: Heart-shaped, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9027 (01HSDM) [S] :LEGACY: Heart-shaped, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9028 (01SSSM) [S] :LEGACY: Spherical, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9029 (01SSSL) [S] :LEGACY: Spherical, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9030 (01SSSS) [S] :LEGACY: Spherical, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9031 (01SMSS) [S] :LEGACY: Spherical, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9032 (01SLSS) [S] :LEGACY: Spherical, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9033 (01SMSM) [S] :LEGACY: Spherical, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9034 (01SMSL) [S] :LEGACY: Spherical, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9035 (01SLSM) [S] :LEGACY: Spherical, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9036 (01SLSL) [S] :LEGACY: Spherical, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9037 (01OSSL) [S] :LEGACY: Cylindric, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9038 (01OLSL) [S] :LEGACY: Cylindric, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9039 (01OSSS) [S] :LEGACY: Cylindric, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9040 (01OSSM) [S] :LEGACY: Cylindric, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9041 (01OMSM) [S] :LEGACY: Cylindric, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9042 (01OMSS) [S] :LEGACY: Cylindric, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9043 (01OMSL) [S] :LEGACY: Cylindric, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9044 (01OLSM) [S] :LEGACY: Cylindric, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9045 (01OLSS) [S] :LEGACY: Cylindric, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9046 (01HLSL) [S] :LEGACY: Heart-shaped, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9047 (01HLSM) [S] :LEGACY: Heart-shaped, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9048 (01HLSS) [S] :LEGACY: Heart-shaped, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9049 (01HMSL) [S] :LEGACY: Heart-shaped, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9050 (01HMSM) [S] :LEGACY: Heart-shaped, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9051 (01HMSS) [S] :LEGACY: Heart-shaped, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9052 (01HSSL) [S] :LEGACY: Heart-shaped, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9053 (01HSSS) [S] :LEGACY: Heart-shaped, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9054 (01HSSM) [S] :LEGACY: Heart-shaped, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9055 (01ALDL) [S] :LEGACY: Conic, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9056 (01CSDS) [S] :LEGACY: Cylindric, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9057 (01AMDM) [S] :LEGACY: Conic, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9058 (01AMDS) [S] :LEGACY: Conic, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9059 (01ALDS) [S] :LEGACY: Conic, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9060 (01AMDL) [S] :LEGACY: Conic, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9061 (01ALDM) [S] :LEGACY: Conic, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9062 (01ASDL) [S] :LEGACY: Conic, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9063 (01ASDM) [S] :LEGACY: Conic, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9064 (01ASDS) [S] :LEGACY: Conic, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9065 (01CLDL) [S] :LEGACY: Cylindric, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9066 (01CSDL) [S] :LEGACY: Cylindric, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9067 (01CMDL) [S] :LEGACY: Cylindric, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9068 (01CMDM) [S] :LEGACY: Cylindric, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9069 (01CMDS) [S] :LEGACY: Cylindric, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9070 (01CLDS) [S] :LEGACY: Cylindric, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9071 (01CSDM) [S] :LEGACY: Cylindric, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9072 (01CLDM) [S] :LEGACY: Cylindric, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9073 (01ALSL) [S] :LEGACY: Conic, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9074 (01CSSS) [S] :LEGACY: Cylindric, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9075 (01AMSM) [S] :LEGACY: Conic, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9076 (01AMSS) [S] :LEGACY: Conic, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9077 (01ALSS) [S] :LEGACY: Conic, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9078 (01AMSL) [S] :LEGACY: Conic, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9079 (01ALSM) [S] :LEGACY: Conic, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9080 (01ASSL) [S] :LEGACY: Conic, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9081 (01ASSM) [S] :LEGACY: Conic, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9082 (01ASSS) [S] :LEGACY: Conic, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9083 (01CLSL) [S] :LEGACY: Cylindric, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9084 (01CSSL) [S] :LEGACY: Cylindric, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9085 (01CMSL) [S] :LEGACY: Cylindric, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9086 (01CMSM) [S] :LEGACY: Cylindric, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9087 (01CMSS) [S] :LEGACY: Cylindric, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9088 (01CLSS) [S] :LEGACY: Cylindric, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9089 (01CSSM) [S] :LEGACY: Cylindric, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9090 (01CLSM) [S] :LEGACY: Cylindric, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9091 (01PLDL) [S] :Palm, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9092 (01PLDM) [S] :Palm, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9093 (01PSDS) [S] :Palm, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9094 (01PMDS) [S] :Palm, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9095 (01PLDS) [S] :Palm, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9096 (0000B5) [S] :LEGACY: Fraxinus Excelsior Plant type: (Deciduous)
+ #9097 (0000B2) [S] :LEGACY: Fagus Sylvatica Plant type: (Deciduous)
+ #9098 (0000B3) [S] :LEGACY: Quercus Robur Plant type: (Deciduous)
+ #9099 (0000E1) [S] :LEGACY: Ulmus Minor Plant type: (Deciduous)
+ #9100 (0000A9) [S] :LEGACY: Acer Campestre Plant type: (Deciduous)
+ #9101 (0000B6) [S] :LEGACY: Ulmus Ã- Hollandica Plant type: (Deciduous)
+ #9102 (0000A5) [S] :LEGACY: Gleditsia Triacanthos Plant type: (Deciduous)
+ #9103 (0000B4) [S] :LEGACY: Carpinus Betulus Plant type: (Deciduous)
+ #9104 (000003) [S] :LEGACY: Robinia Pseudoacacia Plant type: (Deciduous)
+ #9105 (0000C1) [S] :LEGACY: Larix Decidua Plant type: (Conifer)
+ #9106 (0000A2) [S] :LEGACY: Tilia Platyphyllos Plant type: (Deciduous)
+ #9107 (0000C4) [S] :LEGACY: Picea Abies Plant type: (Conifer)
+ #9108 (0000C2) [S] :LEGACY: Pine Plant type: (Conifer)
+ #9109 (0000B7) [S] :LEGACY: Betula Pendula Plant type: (Deciduous)
+ #9110 (0000C3) [S] :LEGACY: Abies Alba Plant type: (Conifer)
+ #9111 (0000A1) [S] :LEGACY: Tilia Cordata Plant type: (Deciduous)
+ #9112 (000007) [S] :LEGACY: Acer Platanoides Plant type: (Deciduous)
+ #9113 (0000A8) [S] :LEGACY: Acer Pseudoplatanus Plant type: (Deciduous)
+ #9114 (0000AC) [S] :LEGACY: Senegalia Greggii Plant type: (Deciduous)
+ #9115 (0000TA) [S] :LEGACY: Tamarix Gallica Plant type: (Conifer)
+ #9116 (0000JU) [S] :LEGACY: Cercis Siliquastrum Plant type: (Deciduous)
+ #9117 (0000PW) [S] :LEGACY: Palm Washingtonia Plant type: (Deciduous)
+ #9118 (0000CC) [S] :LEGACY: Fraxinus Plant type: (Deciduous)
+ #9119 (0000PR) [S] :LEGACY: Tilia Plant type: (Deciduous)
+ #9120 (0000PP) [S] :LEGACY: Pinus Pinea Plant type: (Conifer)
+ #9121 (0000AJ) [S] :LEGACY: Albizia Julibrissin Plant type: (Deciduous)
+ #9122 (0000AN) [S] :LEGACY: Acer Negundo Plant type: (Deciduous)
+ #9123 (0000S2) [S] :LEGACY: Sophora Japonica Plant type: (Deciduous)
+ #9124 (0000B8) [S] :LEGACY: Platanus Ã- Acerifolia Plant type: (Deciduous)
+ #9125 (0000ZY) [S] :LEGACY: Cypress Plant type: (Conifer)
+ #9126 (0000JM) [S] :LEGACY: Jacaranda mimosifolia Plant type: (Deciduous)
+ #9127 (0000OT) [S] :LEGACY: Olea Europaea Plant type: (Deciduous)
+ #9128 (0000LI) [S] :LEGACY: Privet Plant type: (Deciduous)
+ #9129 (0000ZI) [S] :LEGACY: Citrus x Aurantium Plant type: (Deciduous)
+ #9130 (0000K1) [S] :LEGACY: Koelreuteria paniculata Plant type: (Deciduous)
+ #9131 (0000PN) [S] :LEGACY: Populus Nigra Plant type: (Deciduous)
+ #9132 (0000PA) [S] :LEGACY: Populus Alba Plant type: (Deciduous)
+ #9133 (0000NM) [S] :DemoTree 10 Iterations Plant type: (Conifer)  QSM-System based
+ #9134 (0000NO) [S] :DemoTree 5 Iterations Plant type: (Conifer)  QSM-System based
+ #9135 (000DNN) [S] :DemoTree altern Angle Plant type: (Conifer)  QSM-System based
+ #9136 (0000DD) [S] :Pine like Tree Plant type: (Conifer)  QSM-System based
+ #9137 (010020) [S] :Field Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9138 (030060) [S] :London Plane Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9139 (030052) [S] :Horse Chestnut (old) Plant type: (Deciduous)  QSM-System based
+ #9140 (030090) [S] :Common Robinia (old) Plant type: (Deciduous)  QSM-System based
+ #9141 (042010) [S] :Little Leaf Lime (very old) II Plant type: (Deciduous)  QSM-System based
+ #9142 (02001A) [S] :Little Leaf Lime Rancho (middle) Plant type: (Deciduous)  QSM-System based
+ #9143 (01002A) [S] :Field Maple Elsrijk (young) Plant type: (Deciduous)  QSM-System based
+ #9144 (020051) [S] :Red-flowered Horse Chestnut (middle) Plant type: (Deciduous)  QSM-System based
+ #9145 (000NNN) [S] :Tilia Alternative Plant type: (Deciduous)  QSM-System based
+ #9146 (02002B) [S] :Field Maple Elegant (middle) Plant type: (Deciduous)  QSM-System based
+ #9147 (030030) [S] :Norway Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9148 (02003A) [S] :Norway Maple Cleveland (middle) Plant type: (Deciduous)  QSM-System based
+ #9149 (021041) [S] :Hungarian Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9150 (020121) [S] :Dutch Elm (middle) Plant type: (Deciduous)  QSM-System based
+ #9151 (020130) [S] :Swedisch Whitebeam (middle) Plant type: (Deciduous)  QSM-System based
+ #9152 (0000PA) [S] :Palm Plant type: (Deciduous)  QSM-System based
+ #9153 (000140) [S] :Wild Cherry Plena (GALK) Plant type: (Deciduous)  QSM-System based
+ #9154 (030150) [S] :Ginkgo / Fan Leave Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9155 (020160) [S] :American Sweet Gum (middle) Plant type: (Deciduous)  QSM-System based
+ #9156 (030170) [S] :American Gleditschie / Leather Sleeve Tree (old) Plant type: (Deciduous)  QSM-System based
+ #9157 (020180) [S] :Flower-/ Manna-Ash (middle) Plant type: (Deciduous)  QSM-System based
+ #9158 (020190) [S] :Tree Hazel (middle) Plant type: (Deciduous)  QSM-System based
+ #9159 (021200) [S] :Quaking Aspen (middle) Plant type: (Deciduous)  QSM-System based
+ #9160 (020210) [S] :Silver Lime (middle) Plant type: (Deciduous)  QSM-System based
+ #9161 (020020) [S] :Field Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9162 (02002A) [S] :Field Maple Elsrijk (middle) Plant type: (Deciduous)  QSM-System based
+ #9163 (030070) [S] :Hornbeam (old) Plant type: (Deciduous)  QSM-System based
+ #9164 (020100) [S] :Apple Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9165 (020050) [S] :Horse Chestnut (middle) Plant type: (Deciduous)  QSM-System based
+ #9166 (010051) [S] :Red-flowered Horse Chestnut (young) Plant type: (Deciduous)  QSM-System based
+ #9167 (030120) [S] :Dutch Elm (old) Plant type: (Deciduous)  QSM-System based
+ #9168 (040030) [S] :Norway Maple (very old) Plant type: (Deciduous)  QSM-System based
+ #9169 (02003C) [S] :Norway Maple Olmsted (middle) Plant type: (Deciduous)  QSM-System based
+ #9170 (02003B) [S] :Norway Maple Globosum (middle) Plant type: (Deciduous)  QSM-System based
+ #9171 (030034) [S] :Red Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9172 (030010) [S] :Little Leaf Lime (old) Plant type: (Deciduous)  QSM-System based
+ #9173 (020041) [S] :Hungarian Oak (middle) II Plant type: (Deciduous)  QSM-System based
+ #9174 (030111) [S] :Hanging Birch (old) Plant type: (Deciduous)  QSM-System based
+ #9175 (040112) [S] :Hanging Birch 2 (very old) Plant type: (Deciduous)  QSM-System based
+ #9176 (02001B) [S] :Little Leaf Lime Greenspire (middle) Plant type: (Deciduous)  QSM-System based
+ #9177 (020031) [S] :Bluebell Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9178 (030032) [S] :Sweet Chestnut/Maron (old) Plant type: (Deciduous)  QSM-System based
+ #9179 (020033) [S] :Sycamore Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9180 (030040) [S] :Pendunculate Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9181 (030035) [S] :Silver Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9182 (030037) [S] :Tree of Heaven (old) Plant type: (Deciduous)  QSM-System based
+ #9183 (020039) [S] :Spaeth's Alder (middle) Plant type: (Deciduous)  QSM-System based
+ #9184 (030600) [S] :White Willow (old) Plant type: (Deciduous)  QSM-System based
+ #9185 (010025) [S] :Rowan (young) Plant type: (Deciduous)  QSM-System based
+ #9186 (020027) [S] :Pine Tree (middle) Plant type: (Conifer)  QSM-System based
+ #9187 (030660) [S] :Primeval Sequioa (old) Plant type: (Conifer)  QSM-System based
+ #9188 (010190) [S] :Tree Hazel (young) Plant type: (Deciduous)  QSM-System based
+ #9189 (020025) [S] :Rowan (middle) Plant type: (Deciduous)  QSM-System based
+ #9190 (010039) [S] :Spaeth's Alder (young) Plant type: (Deciduous)  QSM-System based
+ #9191 (030039) [S] :Spaeth's Alder (old) Plant type: (Deciduous)  QSM-System based
+ #9192 (030033) [S] :Sycamore Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9193 (010033) [S] :Sycamore Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9194 (010160) [S] :American Sweet Gum (young) Plant type: (Deciduous)  QSM-System based
+ #9195 (030020) [S] :Field Maple (old) Plant type: (Deciduous)  QSM-System based
+ #9196 (010080) [S] :Common Ash (young) Plant type: (Deciduous)  QSM-System based
+ #9197 (020080) [S] :Common Ash (middle) Plant type: (Deciduous)  QSM-System based
+ #9198 (030080) [S] :Common Ash (old) Plant type: (Deciduous)  QSM-System based
+ #9199 (020150) [S] :Ginkgo / Fan Leave Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9200 (010150) [S] :Ginkgo / Fan Leave Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9201 (020070) [S] :Hornbeam (middle) Plant type: (Deciduous)  QSM-System based
+ #9202 (010070) [S] :Hornbeam (young) Plant type: (Deciduous)  QSM-System based
+ #9203 (020060) [S] :London Plane Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9204 (010060) [S] :London Plane Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9205 (020034) [S] :Red Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9206 (010050) [S] :Horse Chestnut (young) Plant type: (Deciduous)  QSM-System based
+ #9207 (030051) [S] :Red-flowered Horse Chestnut (old) Plant type: (Deciduous)  QSM-System based
+ #9208 (020030) [S] :Norway Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9209 (010030) [S] :Norway Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9210 (000040) [S] :Pendunculate Oak (GALK) Plant type: (Deciduous)  QSM-System based
+ #9211 (020040) [S] :Pendunculate Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9212 (010040) [S] :Pendunculate Oak (young) Plant type: (Deciduous)  QSM-System based
+ #9213 (020035) [S] :Silver Maple (middle) Plant type: (Deciduous)  QSM-System based
+ #9214 (010035) [S] :Silver Maple (young) Plant type: (Deciduous)  QSM-System based
+ #9215 (020600) [S] :White Willow (middle) Plant type: (Deciduous)  QSM-System based
+ #9216 (030140) [S] :Wild Cherry Plena (old) Plant type: (Deciduous)  QSM-System based
+ #9217 (020140) [S] :Wild Cherry Plena (middle) Plant type: (Deciduous)  QSM-System based
+ #9218 (010140) [S] :Wild Cherry Plena (young) Plant type: (Deciduous)  QSM-System based
+ #9219 (01002B) [S] :Field Maple Elegant (young) Plant type: (Deciduous)  QSM-System based
+ #9220 (020090) [S] :Common Robinia (middle) Plant type: (Deciduous)  QSM-System based
+ #9221 (010090) [S] :Common Robinia (young) Plant type: (Deciduous)  QSM-System based
+ #9222 (010130) [S] :Swedish Whitebeam (young) Plant type: (Deciduous)  QSM-System based
+ #9223 (020111) [S] :Hanging Birch (middle) Plant type: (Deciduous)  QSM-System based
+ #9224 (010111) [S] :Hanging Birch (young) Plant type: (Deciduous)  QSM-System based
+ #9225 (020010) [S] :Little Leaf Lime (middle) Plant type: (Deciduous)  QSM-System based
+ #9226 (010010) [S] :Little Leaf Lime (young) Plant type: (Deciduous)  QSM-System based
+ #9227 (020032) [S] :Sweet Chestnut/Maron (middle) Plant type: (Deciduous)  QSM-System based
+ #9228 (010031) [S] :Bluebell Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9229 (020440) [S] :Oak (middle) Plant type: (Deciduous)  QSM-System based
+ #9230 (030440) [S] :Oak (old) Plant type: (Deciduous)  QSM-System based
+ #9231 (010027) [S] :Pine Tree (young) Plant type: (Conifer)  QSM-System based
+ #9232 (020170) [S] :American Gelditschie / Leather Sleeve Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9233 (020037) [S] :Tree of Heaven (middle) Plant type: (Deciduous)  QSM-System based
+ #9234 (020200) [S] :Quaking Aspen (middle) II Plant type: (Deciduous)  QSM-System based
+ #9235 (010430) [S] :Persian Walnut (young) Plant type: (Deciduous)  QSM-System based
+ #9236 (010440) [S] :Common Beech (young) Plant type: (Deciduous)  QSM-System based
+ #9237 (030450) [S] :Beech (old) Plant type: (Deciduous)  QSM-System based
+ #9238 (010721) [S] :Wild Fruit Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9239 (010461) [S] :Englisch Hawthorn Paul's Scarlett (young) Plant type: (Deciduous)  QSM-System based
+ #9240 (020592) [S] :Japanese Pagoda Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9241 (010641) [S] :Indian Bean Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9242 (020652) [S] :Tulip Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9243 (020702) [S] :Willow Tree (middle) Plant type: (Deciduous)  QSM-System based
+ #9244 (010700) [S] :Willow Tree (young) Plant type: (Deciduous)  QSM-System based
+ #9245 (010800) [S] :Bird Cherry (young) Plant type: (Deciduous)  QSM-System based
+ #9246 (020810) [S] :Bird Cherry Schloss Tiefurt (middle) Plant type: (Deciduous)  QSM-System based
+ #9247 (010900) [S] :Thuja (young) Plant type: (Conifer)  QSM-System based
+ #9248 (02SSDM) [S] :Spherical, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9249 (02SSDL) [S] :Spherical, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9250 (02SSDS) [S] :Spherical, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9251 (02SMDS) [S] :Spherical, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9252 (02SLDS) [S] :Spherical, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9253 (02SMDM) [S] :Spherical, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9254 (02SMDL) [S] :Spherical, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9255 (02SLDM) [S] :Spherical, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9256 (02SLDL) [S] :Spherical, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9257 (02OSDL) [S] :Cylindric, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9258 (02OLDL) [S] :Cylindric, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9259 (02OSDS) [S] :Cylindric, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9260 (02OSDM) [S] :Cylindric, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9261 (02OMDM) [S] :Cylindric, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9262 (02OMDS) [S] :Cylindric, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9263 (02OMDL) [S] :Cylindric, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9264 (02OLDM) [S] :Cylindric, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9265 (02OLDS) [S] :Cylindric, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9266 (02HLDL) [S] :Heart-shaped, large trunk, dense, large (25m) Plant type: (Deciduous)
+ #9267 (02HLDM) [S] :Heart-shaped, large trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9268 (02HLDS) [S] :Heart-shaped, large trunk, dense, small (5m) Plant type: (Deciduous)
+ #9269 (02HMDL) [S] :Heart-shaped, medium trunk, dense, large (25m) Plant type: (Deciduous)
+ #9270 (02HMDM) [S] :Heart-shaped, medium trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9271 (02HMDS) [S] :Heart-shaped, medium trunk, dense, small (5m) Plant type: (Deciduous)
+ #9272 (02HSDL) [S] :Heart-shaped, small trunk, dense, large (25m) Plant type: (Deciduous)
+ #9273 (02HSDS) [S] :Heart-shaped, small trunk, dense, small (5m) Plant type: (Deciduous)
+ #9274 (02HSDM) [S] :Heart-shaped, small trunk, dense, medium (15m) Plant type: (Deciduous)
+ #9275 (02SSSM) [S] :Spherical, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9276 (02SSSL) [S] :Spherical, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9277 (02SSSS) [S] :Spherical, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9278 (02SMSS) [S] :Spherical, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9279 (02SLSS) [S] :Spherical, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9280 (02SMSM) [S] :Spherical, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9281 (02SMSL) [S] :Spherical, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9282 (02SLSM) [S] :Spherical, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9283 (02SLSL) [S] :Spherical, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9284 (02OSSL) [S] :Cylindric, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9285 (02OLSL) [S] :Cylindric, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9286 (02OSSS) [S] :Cylindric, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9287 (02OSSM) [S] :Cylindric, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9288 (02OMSM) [S] :Cylindric, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9289 (02OMSS) [S] :Cylindric, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9290 (02OMSL) [S] :Cylindric, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9291 (02OLSM) [S] :Cylindric, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9292 (02OLSS) [S] :Cylindric, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9293 (02HLSL) [S] :Heart-shaped, large trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9294 (02HLSM) [S] :Heart-shaped, large trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9295 (02HLSS) [S] :Heart-shaped, large trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9296 (02HMSL) [S] :Heart-shaped, medium trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9297 (02HMSM) [S] :Heart-shaped, medium trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9298 (02HMSS) [S] :Heart-shaped, medium trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9299 (02HSSL) [S] :Heart-shaped, small trunk, sparse, large (25m) Plant type: (Deciduous)
+ #9300 (02HSSS) [S] :Heart-shaped, small trunk, sparse, small (5m) Plant type: (Deciduous)
+ #9301 (02HSSM) [S] :Heart-shaped, small trunk, sparse, medium (15m) Plant type: (Deciduous)
+ #9302 (02ALDL) [S] :Conic, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9303 (02CSDS) [S] :Cylindric, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9304 (02AMDM) [S] :Conic, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9305 (02AMDS) [S] :Conic, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9306 (02ALDS) [S] :Conic, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9307 (02AMDL) [S] :Conic, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9308 (02ALDM) [S] :Conic, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9309 (02ASDL) [S] :Conic, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9310 (02ASDM) [S] :Conic, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9311 (02ASDS) [S] :Conic, small trunk, dense, small (5m) Plant type: (Conifer)
+ #9312 (02CLDL) [S] :Cylindric, large trunk, dense, large (25m) Plant type: (Conifer)
+ #9313 (02CSDL) [S] :Cylindric, small trunk, dense, large (25m) Plant type: (Conifer)
+ #9314 (02CMDL) [S] :Cylindric, medium trunk, dense, large (25m) Plant type: (Conifer)
+ #9315 (02CMDM) [S] :Cylindric, medium trunk, dense, medium (15m) Plant type: (Conifer)
+ #9316 (02CMDS) [S] :Cylindric, medium trunk, dense, small (5m) Plant type: (Conifer)
+ #9317 (02CLDS) [S] :Cylindric, large trunk, dense, small (5m) Plant type: (Conifer)
+ #9318 (02CSDM) [S] :Cylindric, small trunk, dense, medium (15m) Plant type: (Conifer)
+ #9319 (02CLDM) [S] :Cylindric, large trunk, dense, medium (15m) Plant type: (Conifer)
+ #9320 (02ALSL) [S] :Conic, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9321 (02CSSS) [S] :Cylindric, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9322 (02AMSM) [S] :Conic, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9323 (02AMSS) [S] :Conic, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9324 (02ALSS) [S] :Conic, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9325 (02AMSL) [S] :Conic, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9326 (02ALSM) [S] :Conic, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9327 (02ASSL) [S] :Conic, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9328 (02ASSM) [S] :Conic, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9329 (02ASSS) [S] :Conic, small trunk, sparse, small (5m) Plant type: (Conifer)
+ #9330 (02CLSL) [S] :Cylindric, large trunk, sparse, large (25m) Plant type: (Conifer)
+ #9331 (02CSSL) [S] :Cylindric, small trunk, sparse, large (25m) Plant type: (Conifer)
+ #9332 (02CMSL) [S] :Cylindric, medium trunk, sparse, large (25m) Plant type: (Conifer)
+ #9333 (02CMSM) [S] :Cylindric, medium trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9334 (02CMSS) [S] :Cylindric, medium trunk, sparse, small (5m) Plant type: (Conifer)
+ #9335 (02CLSS) [S] :Cylindric, large trunk, sparse, small (5m) Plant type: (Conifer)
+ #9336 (02CSSM) [S] :Cylindric, small trunk, sparse, medium (15m) Plant type: (Conifer)
+ #9337 (02CLSM) [S] :Cylindric, large trunk, sparse, medium (15m) Plant type: (Conifer)
+ Total: 338 3D plants out of 999 used.
+ -------------------------------------
+-------------------------------------
+Material Database
+-------------------------------------
+:: Getting Material Database (System):  OK. Found 113 items
+:: Getting Material Database (projectdatabase.edb):  OK. Added 0 items
+:: Material Database: Check validity...  OK
+ -------------------------------------
+Material Database
+ -------------------------------------
+ -------------------------------------
+ Wall Material Database: -------------
+ -------------------------------------
+ #1000 (0200PL) [S] :Default Plaster
+ #1001 (0200DP) [S] :Dark Plaster
+ #1002 (0100PL) [S] :LEGACY: Default Plaster
+ #1003 (0100IN) [S] :LEGACY: Default Insulation
+ #1004 (0200IN) [S] :Default Insulation
+ #1005 (0100FC) [S] :LEGACY: Default Ferro-Concrete
+ #1006 (0200FC) [S] :Default Ferro-Concrete
+ #1007 (0100CO) [S] :LEGACY: Default Concrete
+ #1008 (0200CO) [S] :Default Concrete
+ #1009 (010000) [S] :LEGACY: Default Concrete
+ #1010 (0100F1) [S] :LEGACY: good insulation (Ferro-concrete, good insulation, plaster)
+ #1011 (0100F2) [S] :LEGACY: no insulation (brick, plaster)
+ #1012 (0100F3) [S] :LEGACY: moderate insulation (concrete, moderate insulation, plaster)
+ #1013 (0100B1) [S] :LEGACY: Brick: aerated
+ #1014 (0200B1) [S] :Brick: aerated
+ #1015 (0100B2) [S] :LEGACY: Default Brick: burned
+ #1016 (0200B2) [S] :Default Brick: burned
+ #1017 (0200BB) [S] :Bright Brick: burned
+ #1018 (0100B3) [S] :LEGACY: Brick: reinforced
+ #1019 (0200B3) [S] :Brick: reinforced
+ #1020 (0100C1) [S] :LEGACY: Concrete: heavyweight
+ #1021 (0200C1) [S] :Concrete: heavyweight
+ #1022 (0100C2) [S] :LEGACY: Concrete: lightweight
+ #1023 (0200C2) [S] :Concrete: lightweight
+ #1024 (0100C3) [S] :LEGACY: Concrete: hollow block
+ #1025 (0200C3) [S] :Concrete: hollow block
+ #1026 (0100C4) [S] :LEGACY: Concrete: filled block
+ #1027 (0200C4) [S] :Concrete: filled block
+ #1028 (0100C5) [S] :LEGACY: Concrete: cast dense
+ #1029 (0200C5) [S] :Concrete: cast dense
+ #1030 (0100MH) [S] :LEGACY: Masonry: heavyweight
+ #1031 (0200MH) [S] :Masonry: heavyweight
+ #1032 (0100G1) [S] :LEGACY: Heat protection glass
+ #1033 (0200G1) [S] :Heat protection glass
+ #1034 (0100G2) [S] :LEGACY: Plexiglass
+ #1035 (0200G2) [S] :Plexiglass
+ #1036 (0100G3) [S] :LEGACY: foamed glass
+ #1037 (0200G3) [S] :foamed glass
+ #1038 (0100G4) [S] :LEGACY: clear float glass
+ #1039 (0200G4) [S] :clear float glass
+ #1040 (0100G5) [S] :LEGACY: glass brick surface
+ #1041 (0200G5) [S] :glass brick surface
+ #1042 (0100R1) [S] :LEGACY: Roofing: tile
+ #1043 (0200R1) [S] :Roofing: tile
+ #1044 (0100R2) [S] :LEGACY: Roofing: terracotta
+ #1045 (0100AL) [S] :LEGACY: Aluminium
+ #1046 (0200AL) [S] :Aluminium
+ #1047 (0100Cu) [S] :LEGACY: Copper
+ #1048 (0200CU) [S] :Copper
+ #1049 (0100IR) [S] :LEGACY: Iron
+ #1050 (0200IR) [S] :Iron
+ #1051 (0100ST) [S] :LEGACY: Steel
+ #1052 (0200ST) [S] :Steel
+ #1053 (0100PV) [S] :LEGACY: PVC
+ #1054 (0100PC) [S] :LEGACY: Concrete, Photoactive
+ #1055 (0100O2) [S] :LEGACY: Air
+ #1056 (0200O2) [S] :Air
+ #1057 (0100WC) [S] :LEGACY: Concrete: lightweight and wet
+ #1058 (0200WC) [S] :Concrete: lightweight and wet
+ #1059 (0100SG) [S] :LEGACY: Shading Plexiglass
+ #1060 (0200SG) [S] :Shading Plexiglass
+ #1061 (0100BR) [S] :LEGACY: Default Brick: burned
+ #1062 (0200BR) [S] :Default Brick: burned
+ #1063 (0000PL) [S] :LEGACY: Default Plaster
+ #1064 (0000IN) [S] :LEGACY: Default Insulation
+ #1065 (000000) [S] :Default Concrete
+ #1066 (0000CO) [S] :LEGACY: Default Concrete
+ #1067 (0000F1) [S] :LEGACY: good insulation
+ #1068 (0000F2) [S] :LEGACY: no insulation
+ #1069 (0000F3) [S] :LEGACY: moderate insulation
+ #1070 (0000B1) [S] :LEGACY: Brick: aerated
+ #1071 (0000B2) [S] :LEGACY: Default Brick: burned
+ #1072 (0000B3) [S] :LEGACY: Brick: reinforced
+ #1073 (0000C1) [S] :LEGACY: Concrete: heavyweight
+ #1074 (0000C2) [S] :LEGACY: Concrete: lightweight
+ #1075 (0000C3) [S] :LEGACY: Concrete: hollow block
+ #1076 (0000C4) [S] :LEGACY: Concrete: filled block
+ #1077 (0000C5) [S] :LEGACY: Concrete: cast dense
+ #1078 (0000MH) [S] :LEGACY: Masonry: heavyweight
+ #1079 (0000G1) [S] :LEGACY: Heat protection glass
+ #1080 (0000G2) [S] :LEGACY: Plexiglass
+ #1081 (0000G3) [S] :LEGACY: foamed glass
+ #1082 (0000G4) [S] :LEGACY: clear float glass
+ #1083 (0000G5) [S] :LEGACY: glass brick surface
+ #1084 (0000R1) [S] :LEGACY: Roofing: tile
+ #1085 (0000R2) [S] :LEGACY: Roofing: terracotta
+ #1086 (0000AL) [S] :LEGACY: Aluminium
+ #1087 (0000Cu) [S] :LEGACY: Copper
+ #1088 (0000IR) [S] :LEGACY: Iron
+ #1089 (0000ST) [S] :LEGACY: Steel
+ #1090 (0000PV) [S] :LEGACY: PVC
+ #1091 (0000PC) [S] :LEGACY: Concrete, Photoactive
+ #1092 (0000O2) [S] :LEGACY: Air
+ #1093 (0000WC) [S] :LEGACY: Concrete: lightweight and wet
+ #1094 (0000SG) [S] :LEGACY: Shading Plexiglass
+ #1095 (0000BK) [S] :LEGACY: Brick: burned
+ #1096 (0210CG) [S] :Concrete to Glass ratio: 90 to 10
+ #1097 (0210IG) [S] :Insulation to Glass ratio: 90 to 10
+ #1098 (0210BG) [S] :Burned Brick to Glass ratio: 90 to 10
+ #1099 (0210TG) [S] :Roof Tile to Glass ratio: 90 to 10
+ #1100 (0210PG) [S] :Plaster to Glass ratio: 90 to 10
+ #1101 (0230CG) [S] :Concrete to Glass ratio: 70 to 30
+ #1102 (0230IG) [S] :Insulation to Glass ratio: 70 to 30
+ #1103 (0230BG) [S] :Burned Brick to Glass ratio: 70 to 30
+ #1104 (0230TG) [S] :Roof Tile to Glass ratio: 70 to 30
+ #1105 (0230PG) [S] :Plaster to Glass ratio: 70 to 30
+ #1106 (0250CG) [S] :Concrete to Glass ratio: 50 to 50
+ #1107 (0250IG) [S] :Insulation to Glass ratio: 50 to 50
+ #1108 (0250BG) [S] :Burned Brick to Glass ratio: 50 to 50
+ #1109 (0250TG) [S] :Roof Tile to Glass ratio: 50 to 50
+ #1110 (0250PG) [S] :Plaster to Glass ratio: 50 to 50
+ #1111 (0200PV) [S] :PVC
+ #1112 (0PHOTO) [S] :Photovoltaic
+ Total: 113 Materials out of 999 used.
+ -------------------------------------
+-------------------------------------
+Wall Database
+-------------------------------------
+:: Getting Wall Database (System):  OK. Found 83 items
+:: Getting Wall Database (projectdatabase.edb):  OK. Added 0 items
+:: Wall Database: Check validity...  OK
+ -------------------------------------
+Wall Database
+ -------------------------------------
+ #7000 (0100F1) [S] :LEGACY: Passive wall - good insulation Materials: |0100F1|0100F1|0100F1| Thickness: 0.4900 m, Transmission: 0.00
+ #7001 (0100F2) [S] :LEGACY: Wall - no insulation Materials: |0100F2|0100F2|0100F2| Thickness: 0.4100 m, Transmission: 0.00
+ #7002 (0100F3) [S] :LEGACY: Wall - moderate insulation Materials: |0100F3|0100F3|0100F3| Thickness: 0.3100 m, Transmission: 0.00
+ #7003 (0100MI) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7004 (0200MI) [S] :Default Wall - moderate insulation Materials: |0200PL|0200IN|0200CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7005 (010000) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7006 (0100SU) [S] :LEGACY: PVC Sun Sail Materials: |0000PV|0000PV|0000PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7007 (0200SU) [S] :PVC Sun Sail Materials: |0200PV|0200PV|0200PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7008 (0100PC) [S] :LEGACY: Concrete Wall, Photoactive Materials: |0000PC|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7009 (0100C1) [S] :LEGACY: Concrete Wall (heavy) Materials: |0000C1|0000C1|0000C1| Thickness: 0.3000 m, Transmission:0.00
+ #7010 (0200C1) [S] :Concrete Wall (heavy) Materials: |0200C1|0200C1|0200C1| Thickness: 0.3000 m, Transmission: 0.00
+ #7011 (0100C2) [S] :LEGACY: Concrete wall (light weight) Materials: |0000C2|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7012 (0200C2) [S] :Concrete wall (light weight) Materials: |0200C2|0200C2|0200C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7013 (0100C3) [S] :LEGACY: Concrete wall (hollow block) Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7014 (0200C3) [S] :Concrete wall (hollow block) Materials: |0200C3|0200C3|0200C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7015 (0100C4) [S] :LEGACY: Concrete wall (Filled block) Materials: |0000C4|0000C4|0000C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7016 (0200C4) [S] :Concrete wall (Filled block) Materials: |0200C4|0200C4|0200C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7017 (0100C5) [S] :LEGACY: Concrete Wall (cast dense) Materials: |0000C5|0000C5|0000C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7018 (0200C5) [S] :Concrete Wall (cast dense) Materials: |0200C5|0200C5|0200C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7019 (0100G1) [S] :LEGACY: Heat Protection Glass (one layer Materials: |0000G1|0000G1|0000G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7020 (0200G1) [S] :Heat Protection Glass (one layered) Materials: |0200G1|0200G1|0200G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7021 (0100G2) [S] :LEGACY: Plexiglass (one layered) Materials: |0000G2|0000G2|0000G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7022 (0200G2) [S] :Plexiglass (one layered) Materials: |0200G2|0200G2|0200G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7023 (0100G3) [S] :LEGACY: Foamed Glass (one layered) Materials: |0000G3|0000G3|0000G3| Thickness: 0.0300 m, Transmission: 0.06
+ #7024 (0200G3) [S] :Foamed Glass (one layered) Materials: |0200G3|0200G3|0200G3| Thickness: 0.0300 m, Transmission: 0.00
+ #7025 (0100G4) [S] :LEGACY: Clear Float glass (one layered) Materials: |0000G4|0000G4|0000G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7026 (0200G4) [S] :Clear Float glass (one layered) Materials: |0200G4|0200G4|0200G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7027 (0100G5) [S] :LEGACY: Glass Bricks (one layered) Materials: |0000G5|0000O2|0000G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7028 (0200G5) [S] :Glass Bricks (one layered) Materials: |0200G5|0200O2|0200G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7029 (0100AL) [S] :LEGACY: Aluminium (single layer) Materials: |0000Al|0000Al|0000Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7030 (0200AL) [S] :Aluminium (single layer) Materials: |0200Al|0200Al|0200Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7031 (0100CU) [S] :LEGACY: Copper (single layer) Materials: |0000Cu|0000Cu|0000Cu| Thickness: 0.0300 m, Transmission:0.00
+ #7032 (0200CU) [S] :Copper (single layer) Materials: |0200Cu|0200Cu|0200Cu| Thickness: 0.0300 m, Transmission: 0.00
+ #7033 (0100IR) [S] :LEGACY: Iron (single layer) Materials: |0000IR|0000IR|0000IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7034 (0200IR) [S] :Iron (single layer) Materials: |0200IR|0200IR|0200IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7035 (0100ST) [S] :LEGACY: Steel (one layer) Materials: |0000ST|0000ST|0000ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7036 (0200ST) [S] :Steel (one layer) Materials: |0200ST|0200ST|0200ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7037 (0100B1) [S] :LEGACY: Brick wall (aerated) Materials: |0000B1|0000B1|0000B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7038 (0200B1) [S] :Brick wall (aerated) Materials: |0200B1|0200B1|0200B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7039 (0100B2) [S] :LEGACY: Brick wall (burned) Materials: |0000B2|0000B2|0000B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7040 (0200B2) [S] :Brick wall (burned) Materials: |0200B2|0200B2|0200B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7041 (0100B3) [S] :LEGACY: Brick wall (reinforced) Materials: |0000B3|0000B3|0000B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7042 (0200B3) [S] :Brick wall (reinforced) Materials: |0200B3|0200B3|0200B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7043 (0100R1) [S] :LEGACY: Roofing: Tile Materials: |0000R1|0000R1|0000R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7044 (0200R1) [S] :Roofing: Tile Materials: |0200R1|0200R1|0200R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7045 (0100R2) [S] :LEGACY: Roofing: Terracotta Materials: |0000R2|0000R2|0000R2| Thickness: 0.3000 m, Transmission: 0.00
+ #7046 (0100GH) [S] :LEGACY: Heat protection glass (one air l Materials: |0000G1|0000O2|0000G1| Thickness: 1.5000 m, Transmission: 0.81
+ #7047 (0200GH) [S] :Heat protection glass (one air layer) Materials: |0200G1|0200O2|0200G1| Thickness: 0.0700 m, Transmission: 0.81
+ #7048 (0100WR) [S] :LEGACY: WetRoof Materials: |0000WC|0000C2|0000C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7049 (0200WR) [S] :WetRoof Materials: |0200WC|0200C2|0200C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7050 (0100SG) [S] :LEGACY: Shading Plexiglass Materials: |0000SG|0000SG|0000O2| Thickness: 0.0300 m, Transmission: 0.49
+ #7051 (0200SG) [S] :Shading Plexiglass Materials: |0200SG|0200SG|0200SG| Thickness: 0.0300 m, Transmission: 0.22
+ #7052 (0000CS) [S] :LEGACY: Concrete slab (hollow block, def Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7053 (0000F1) [S] :LEGACY: Passive wall - good insulation Materials: |0000F1|0000F1|0000F1| Thickness: 0.4900 m, Transmission: 0.00
+ #7054 (0000F2) [S] :LEGACY: Wall - no insulation Materials: |0000F2|0000F2|0000F2| Thickness: 0.4100 m, Transmission: 0.00
+ #7055 (0000F3) [S] :LEGACY: Wall - moderate insulation Materials: |0000F3|0000F3|0000F3| Thickness: 0.3100 m, Transmission: 0.00
+ #7056 (000000) [S] :Default Wall - moderate insulation Materials: |0200PL|0200IN|0200CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7057 (0000MI) [S] :LEGACY: Default Wall - moderate insulati Materials: |0100PL|0100IN|0100CO| Thickness: 0.3100 m, Transmission: 0.00
+ #7058 (0000SU) [S] :LEGACY: PVC Sun Sail Materials: |0000PV|0000PV|0000PV| Thickness: 0.0600 m, Transmission: 0.00
+ #7059 (0000PC) [S] :LEGACY: Concrete Wall, Photoactive Materials: |0000PC|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7060 (0000C1) [S] :LEGACY: Concrete Wall (heavy) Materials: |0000C1|0000C1|0000C1| Thickness: 0.3000 m, Transmission:0.00
+ #7061 (0000C2) [S] :LEGACY: Concrete wall (light weight) Materials: |0000C2|0000C2|0000C2| Thickness: 0.3000 m, Transmission: 0.00
+ #7062 (0000C3) [S] :LEGACY: Concrete wall (hollow block) Materials: |0000C3|0000C3|0000C3| Thickness: 0.3000 m, Transmission: 0.00
+ #7063 (0000C4) [S] :LEGACY: Concrete wall (Filled block) Materials: |0000C4|0000C4|0000C4| Thickness: 0.3000 m, Transmission: 0.00
+ #7064 (0000C5) [S] :LEGACY: Concrete Wall (cast dense) Materials: |0000C5|0000C5|0000C5| Thickness: 0.3000 m, Transmission: 0.00
+ #7065 (0000G1) [S] :LEGACY: Heat Protection Glass (one layer Materials: |0000G1|0000G1|0000G1| Thickness: 0.0300 m, Transmission: 0.73
+ #7066 (0000G2) [S] :LEGACY: Plexiglass (one layered) Materials: |0000G2|0000G2|0000G2| Thickness: 0.0300 m, Transmission: 0.73
+ #7067 (0000G3) [S] :LEGACY: Foamed Glass (one layered) Materials: |0000G3|0000G3|0000G3| Thickness: 0.0300 m, Transmission: 0.06
+ #7068 (0000G4) [S] :LEGACY: Clear Float glass (one layered) Materials: |0000G4|0000G4|0000G4| Thickness: 0.0300 m, Transmission: 0.73
+ #7069 (0000G5) [S] :LEGACY: Glass Bricks (one layered) Materials: |0000G5|0000O2|0000G5| Thickness: 0.0600 m, Transmission: 0.49
+ #7070 (0000AL) [S] :LEGACY: Aluminium (single layer) Materials: |0000Al|0000Al|0000Al| Thickness: 0.0300 m, Transmission: 0.00
+ #7071 (0000CU) [S] :LEGACY: Copper (single layer) Materials: |0000Cu|0000Cu|0000Cu| Thickness: 0.0300 m, Transmission:0.00
+ #7072 (0000IR) [S] :LEGACY: Iron (single layer) Materials: |0000IR|0000IR|0000IR| Thickness: 0.0300 m, Transmission: 0.00
+ #7073 (0000ST) [S] :LEGACY: Steel (one layer) Materials: |0000ST|0000ST|0000ST| Thickness: 0.0600 m, Transmission: 0.00
+ #7074 (0000B1) [S] :LEGACY: Brick wall (aerated) Materials: |0000B1|0000B1|0000B1| Thickness: 0.4500 m, Transmission: 0.00
+ #7075 (0000B2) [S] :LEGACY: Brick wall (burned) Materials: |0000B2|0000B2|0000B2| Thickness: 0.4500 m, Transmission: 0.00
+ #7076 (0000B3) [S] :LEGACY: Brick wall (reinforced) Materials: |0000B3|0000B3|0000B3| Thickness: 0.4500 m, Transmission: 0.00
+ #7077 (0000R1) [S] :LEGACY: Roofing: Tile Materials: |0000R1|0000R1|0000R1| Thickness: 0.3000 m, Transmission: 0.00
+ #7078 (0000R2) [S] :LEGACY: Roofing: Terracotta Materials: |0000R2|0000R2|0000R2| Thickness: 0.3000 m, Transmission: 0.00
+ #7079 (0000GH) [S] :LEGACY: Heat protection glass (one air l Materials: |0000G1|0000O2|0000G1| Thickness: 1.5000 m, Transmission: 0.81
+ #7080 (0000WR) [S] :LEGACY: WetRoof Materials: |0000WC|0000C2|0000C2| Thickness: 0.9000 m, Transmission: 0.00
+ #7081 (0000SG) [S] :LEGACY: Shading Plexiglass Materials: |0000SG|0000SG|0000O2| Thickness: 0.0300 m, Transmission: 0.49
+ #7082 (0200PW) [S] :Photovoltaic Concrete Insulation Wall Materials: |0PHOTO|0200IN|0200CO| Thickness: 0.3500 m, Transmission: 0.00
+ Total: 83 Walls out of 999 used.
+ -------------------------------------
+-------------------------------------
+Single Wall Database
+-------------------------------------
+:: Getting Single Wall Database (System):  OK. Found 5 items
+:: Getting Single Wall Database (projectdatabase.edb):  OK. Added 0 items
+:: Single Wall Database: Check validity...  OK
+ -------------------------------------
+Single Wall Database
+ -------------------------------------
+ #4000 (000001) [S] :LEGACY: SunSail Material: |0000PV|
+ #4001 (02000S) [S] :SunSail Material: |0200PV|
+ #4002 (0000BW) [S] :LEGACY: BrickWall Material: |0000B2|
+ #4003 (0200BW) [S] :BrickWall Material: |0200B2|
+ #4004 (0200PV) [S] :Photovoltaic Panel Material: |0PHOTO|
+ Total: 5 single walls out of 999 used.
+ -------------------------------------
+-------------------------------------
+Greenings Database
+-------------------------------------
+:: Getting Greenings Database (System):  OK. Found 8 items
+:: Getting Greenings Database (projectdatabase.edb):  OK. Added 0 items
+:: Greenings Database: Check validity...  OK
+ -------------------------------------
+Greenings Database
+ -------------------------------------
+ #11000 (01NAFG) [S] :LEGACY: only green SimplePlant: [0100IV] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11001 (02NAFG) [S] :only green SimplePlant: [0100IV] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11002 (01NASS) [S] :LEGACY: green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11003 (01NADS) [S] :LEGACY: green + mixed substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SY|
+ #11004 (01AGSS) [S] :LEGACY: green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SL|
+ #11005 (02AGSS) [S] :green + sandy loam substrate SimplePlant: [0100FU] Soil Substrate: |0200SL|0200SL|0200SY|
+ #11006 (01AGDS) [S] :LEGACY: green + mixed substrate SimplePlant: [0100FU] Soil Substrate: |0000SL|0000SL|0000SY|
+ #11007 (02AGDS) [S] :green + sandy substrate SimplePlant: [0100FU] Soil Substrate: |0200SD|0200SD|0200SY|
+ Total: 8 Greenings out of 900 used.
+ -------------------------------------
+_________________________________________________________________________________________
+$$  Loading Area Input file...
+:: ------------------------------------------------------
+:: Model Loader: C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx. Getting file....
+:: ------------------------------------------------------
+::  Model Description: A brave new area
+::  Model Author: Grasshopper envimet
+::  Model_loader: Getting memory...
+::  Model_loader: Clear memory...
+::  Model_loader: Buildings 2D...
+::  Model_loader: Simple plants (Matrix)...
+::  Model_loader: 3D Plants...
+::  Model_loader: Soil Profiles...
+::  Model_loader: DEM...
+::  Model_loader: Detailed Building List...
+::                 Building List: Defines 1 Building(s)
+::                 -----------------------------------
+::                 ! Greening not supported in LITE !
+::                 -----------------------------------
+::  Model_loader: Finished, cleaning up...
+:: ------------------------------------------------------
+$$  Setting up model grid...
+_________________________________________________________________________________________
+$$ Grid Information:
+$$    dxy(Main)=6.43 m  Nesting:0 grids. dxy(Nest) m
+$$    dz=3.00 (equidistant)
+$$ Top of 3D Model is at 106.50 m height
+$$ Highest object in model area is 21.00 m high
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+$$ DEM Terrain Model Information:     No DEM used.
+_________________________________________________________________________________________
+$$ Linking Databases Soil -> Profile with -> "C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx"
+$$ All links inbetween the Soil ProfilsDB and SoilsDB are valid. :-)
+** Checking profils used in the Area Input File but not defined in Soil ProfileDB...
+$$ All profiles used in "C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx"  are ok.
+$$ Setting Datalinks, z0- length, Emissivity and Albedo...
+$$ Average z0 over nesting area:0.015
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+$$  Setting up grid...
+Gridding topography and buildings...!
+DEM Handler:    No building transmission neccessary!
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+$$ Removing non-required internal building walls..
+$$ Filling enclosed cells...
+$ Setting up and calculating buildings properties...
+  Calculating building volume...
+  Calculating building envelope...
+[1]: Bldg. 1 "": Envelope surface= 5140.16 m², Volume= 28607.47 m³
+_________________________________________________________________________________________
+Setting up dynamic wall and roof inventory.....
+Facade/roof elements used: 341
+$$ Linking Databases Soil -> Profile with -> "C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx"
+$$ All links inbetween the Soil ProfilsDB and SoilsDB are valid. :-)
+** Checking profils used in the Area Input File but not defined in Soil ProfileDB...
+$$ All profiles used in "C:\Users\makel\AppData\Roaming\ENVI-met\Workspace\SimpleCaseIncreasedBoundary06\Project\Model.inx"  are ok.
+$$ Setting Datalinks, z0- length, Emissivity and Albedo...
+$$ Average z0 over nesting area:0.015
+$$ Checking Grid Structure...
+$$  Generating plants data...
+_________________________________________________________________________________________
+*********** Plants Inventory *******************
+     *********** Simple Plants *******************
+     ***** (Simple plants not listed in detail) *************
+     ***** Total: 0 Simple Plants *************
+     ************* 3D Plants *********************
+     #000: PlantGroup
+     #001: PlantGroup
+     #002: PlantGroup
+     ***** Total: 3 3D Plants *************
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+$$  Creating ENVIObjects references...
+Gridding ENVI-met Objects
+****** ENVI-met ObjectManager V0.2 ******
+---------------------------------------------
+Total: 0 ENVIObjects
+_________________________________________________________________________________________
+$$ Selected Stomata Resistance Model: A-Gs Approach (Jacobs)(=2)
+$$ CO2 Background concentration: 450,00 ppm
+$$ CO2 subsystem enabled
+$$ Additional CO2 sources present: No
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+$$ This is how the present constellation looks like :
+             __________________________________________________
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |............................#######...............|
+            |............................#######...............|
+            |............................#######...............|
+            |............................###...................|
+            |............................###..*.*..............|
+            |............................###.*****.............|
+            |............................###..***..............|
+            |.................................***..............|
+            |..................................*...............|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+            |..................................................|
+             __________________________________________________
+ "#" Building, "=" Overhanging Building, "~" Simple Plant "*" 3D Plant "R" Receptor
+Calculating SOR coefficients...
+$$  Asymptotic relaxation parameter was calculated to 1.8554
+$$  Geostrophic wind is u=-3.60 v=0.00
+_________________________________________________________________________________________
+$$  Model Initialisation (Initial Guess on 1D BL)
+[0h 5min 33s ] $$ Starting ENVI-met Initialisation on 07-04-2025@19:30:51
+$$ ENVI-met mode: Normal turbulence
+_________________________________________________________________________________________
+-----------------------------------------
+$$ ENVI_MET Flow model
+$$ SOR Solver: Updated/Parallel Mode
+$$ 3D Initialisation: Running Flow Diastrophy
+     100% [101 st] remaining div: 0.00002 dt=0.10 (Stopped)
+      50% [101 st] remaining div: 0.00632 dt=0.10 (Stopped)
+       0% [101 st] remaining div: 0.01213 dt=0.10 (Stopped)
+$$ 3D Initialisation: Flow Diastrophy finished
+$$ 3D Initialisation: Completed Model
+Initial Flow Adjustment. Total time to calculate: 10.000 sec
+                         Maximum allowed change: 0.0360 m/s
+[0h 6min 4s ] $$ Setting up wind field completed
+$$ Initialisation of Temperature and Humidity completed:  dT: 0.00000 dq:0.00000 | Loop count: 0
+[19:31:23] $$ Time needed for Initialisation: 0h 6min 5s
+_________________________________________________________________________________________
+$$ *******************************************************************
+ENVI-met® V5.7.2 Feb24 © ENVI_MET GmbH Essen, 1997-2025
+$$    A Holistic Microclimate Model
+$$ *******************************************************************
+$$    Start: 23.06.2018 00.00.00 End: 23.06.2018 20.00.00 = 72000.0 sec
+$$    Dynamical time steps:
+$$    Sun height <40.00° : dt=2.00 s
+$$         40.00-50.00° : dt=2.00 s
+$$               >50.00° : dt=1.00 s
+_________________________________________________________________________________________
+$$ Passive Particle/Gas Concentration:
+       Not used
+$$ Turbulence Closure 3D Mainmodel: TKE
+$$ Turbulence Model Version: ENVI_MET/ Bruse 2018 Modification
+$$ Turbulence Model LBC: Forced (Closed) Boundary
+_________________________________________________________________________________________
+$$ Starting ENVI-met Mainmodule on 07-04-2025@19:31:23
+[0h 8min 4s ] New flow: 2 Steps [101 SOR Steps] du:0.007 dv:0.004 dw:0.004 after 10.20 s total
+Maximum divergence in flow field= 0.12787 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+Dynamical time step adjustment. Set dt=2 sec. (Class 0)
+[0h 9min 27s ] New flow: 1 Steps [101 SOR Steps] du:0.007 dv:0.003 dw:0.005 after 10.30 s total
+Maximum divergence in flow field= 0.12770 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 10min 7s ] New flow: 1 Steps [101 SOR Steps] du:0.008 dv:0.004 dw:0.006 after 10.40 s total
+Maximum divergence in flow field= 0.12751 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 10min 47s ] New flow: 1 Steps [101 SOR Steps] du:0.008 dv:0.007 dw:0.006 after 10.50 s total
+Maximum divergence in flow field= 0.12732 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:36:28]   ENVI-met at 23.06.2018 [01.00.01] Sun: h=-29.76° a=21.18°  T0ref=289.567  q0ref=10.839
+[0h 11min 9s ]  Time executed in prognostic flow equation: 10.50 s
+_________________________________________________________________________________________
+[0h 11min 49s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.011 dw:0.007 after 10.60 s total
+Maximum divergence in flow field= 0.12714 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 12min 29s ] New flow: 1 Steps [101 SOR Steps] du:0.014 dv:0.015 dw:0.007 after 10.70 s total
+Maximum divergence in flow field= 0.12694 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 13min 9s ] New flow: 1 Steps [101 SOR Steps] du:0.018 dv:0.019 dw:0.007 after 10.80 s total
+Maximum divergence in flow field= 0.12674 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 13min 50s ] New flow: 1 Steps [101 SOR Steps] du:0.020 dv:0.021 dw:0.007 after 10.90 s total
+Maximum divergence in flow field= 0.12652 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:39:33]   ENVI-met at 23.06.2018 [02.00.01] Sun: h=-23.86° a=35.12°  T0ref=289.301  q0ref=10.691
+[0h 14min 15s ]  Time executed in prognostic flow equation: 10.90 s
+_________________________________________________________________________________________
+[0h 14min 55s ] New flow: 1 Steps [101 SOR Steps] du:0.021 dv:0.022 dw:0.007 after 11.00 s total
+Maximum divergence in flow field= 0.12629 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 15min 36s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.023 dw:0.007 after 11.10 s total
+Maximum divergence in flow field= 0.12604 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 16min 17s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.024 dw:0.007 after 11.20 s total
+Maximum divergence in flow field= 0.12579 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 16min 57s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.025 dw:0.007 after 11.30 s total
+Maximum divergence in flow field= 0.12552 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:42:41]   ENVI-met at 23.06.2018 [03.00.01] Sun: h=-15.66° a=46.88°  T0ref=289.134  q0ref=10.578
+[0h 17min 23s ]  Time executed in prognostic flow equation: 11.30 s
+_________________________________________________________________________________________
+[0h 18min 3s ] New flow: 1 Steps [101 SOR Steps] du:0.023 dv:0.023 dw:0.007 after 11.40 s total
+Maximum divergence in flow field= 0.12524 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 18min 46s ] New flow: 1 Steps [101 SOR Steps] du:0.023 dv:0.007 dw:0.007 after 11.50 s total
+Maximum divergence in flow field= 0.12496 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 19min 26s ] New flow: 1 Steps [101 SOR Steps] du:0.023 dv:0.006 dw:0.007 after 11.60 s total
+Maximum divergence in flow field= 0.12466 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 20min 7s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.006 dw:0.006 after 11.70 s total
+Maximum divergence in flow field= 0.12437 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:45:52]   ENVI-met at 23.06.2018 [04.00.01] Sun: h=-5.86° a=56.72°  T0ref=289.024  q0ref=10.496
+[0h 20min 34s ]  Time executed in prognostic flow equation: 11.70 s
+_________________________________________________________________________________________
+[0h 21min 14s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.006 dw:0.006 after 11.80 s total
+Maximum divergence in flow field= 0.12406 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 21min 55s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.005 dw:0.006 after 11.90 s total
+Maximum divergence in flow field= 0.12375 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 22min 35s ] New flow: 1 Steps [101 SOR Steps] du:0.022 dv:0.005 dw:0.006 after 12.00 s total
+Maximum divergence in flow field= 0.12344 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 23min 15s ] New flow: 1 Steps [101 SOR Steps] du:0.024 dv:0.004 dw:0.007 after 12.10 s total
+Maximum divergence in flow field= 0.12311 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:48:56]   ENVI-met at 23.06.2018 [05.00.01] Sun: h=5.04° a=65.13°  T0ref=289.279  q0ref=10.618
+[0h 23min 38s ]  Time executed in prognostic flow equation: 12.10 s
+_________________________________________________________________________________________
+[0h 24min 18s ] New flow: 1 Steps [101 SOR Steps] du:0.024 dv:0.006 dw:0.006 after 12.20 s total
+Maximum divergence in flow field= 0.12278 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 24min 59s ] New flow: 1 Steps [101 SOR Steps] du:0.026 dv:0.006 dw:0.007 after 12.30 s total
+Maximum divergence in flow field= 0.12244 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 25min 43s ] New flow: 1 Steps [101 SOR Steps] du:0.030 dv:0.007 dw:0.009 after 12.40 s total
+Maximum divergence in flow field= 0.12207 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 26min 28s ] New flow: 1 Steps [101 SOR Steps] du:0.033 dv:0.008 dw:0.010 after 12.50 s total
+Maximum divergence in flow field= 0.12169 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:52:11]   ENVI-met at 23.06.2018 [06.00.01] Sun: h=16.67° a=72.64°  T0ref=291.160  q0ref=11.693
+[0h 26min 52s ]  Time executed in prognostic flow equation: 12.50 s
+_________________________________________________________________________________________
+[0h 27min 33s ] New flow: 2 Steps [101 SOR Steps] du:0.011 dv:0.003 dw:0.011 after 12.70 s total
+Maximum divergence in flow field= 0.12105 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 28min 40s ] New flow: 2 Steps [101 SOR Steps] du:0.011 dv:0.003 dw:0.010 after 12.90 s total
+Maximum divergence in flow field= 0.12033 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 29min 53s ] New flow: 2 Steps [101 SOR Steps] du:0.012 dv:0.003 dw:0.010 after 13.10 s total
+Maximum divergence in flow field= 0.11947 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 31min 17s ] New flow: 2 Steps [101 SOR Steps] du:0.015 dv:0.003 dw:0.014 after 13.30 s total
+Maximum divergence in flow field= 0.11834 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[19:56:55]   ENVI-met at 23.06.2018 [07.00.01] Sun: h=28.77° a=79.76°  T0ref=294.324  q0ref=13.643
+[0h 31min 37s ]  Time executed in prognostic flow equation: 13.30 s
+_________________________________________________________________________________________
+[0h 33min 19s ] New flow: 2 Steps [101 SOR Steps] du:0.017 dv:0.005 dw:0.022 after 13.50 s total
+Maximum divergence in flow field= 0.11723 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 34min 57s ] New flow: 2 Steps [101 SOR Steps] du:0.015 dv:0.006 dw:0.022 after 13.70 s total
+Maximum divergence in flow field= 0.11641 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 36min 33s ] New flow: 2 Steps [101 SOR Steps] du:0.013 dv:0.007 dw:0.015 after 13.90 s total
+Maximum divergence in flow field= 0.11580 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 37min 49s ] New flow: 2 Steps [101 SOR Steps] du:0.013 dv:0.007 dw:0.009 after 14.10 s total
+Maximum divergence in flow field= 0.11522 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:03:23]   ENVI-met at 23.06.2018 [08.00.01] Sun: h=41.14° a=87.13°  T0ref=297.563  q0ref=15.838
+[0h 38min 5s ]  Time executed in prognostic flow equation: 14.10 s
+_________________________________________________________________________________________
+[0h 39min 16s ] New flow: 2 Steps [101 SOR Steps] du:0.012 dv:0.007 dw:0.009 after 14.30 s total
+Maximum divergence in flow field= 0.11459 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 40min 23s ] New flow: 2 Steps [101 SOR Steps] du:0.011 dv:0.007 dw:0.008 after 14.50 s total
+Maximum divergence in flow field= 0.11392 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 41min 29s ] New flow: 1 Steps [101 SOR Steps] du:0.023 dv:0.018 dw:0.011 after 14.60 s total
+Maximum divergence in flow field= 0.11358 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+Dynamical time step adjustment. Set dt=1 sec. (Class 2)
+[0h 43min 13s ] New flow: 1 Steps [101 SOR Steps] du:0.014 dv:0.008 dw:0.008 after 14.70 s total
+Maximum divergence in flow field= 0.11321 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:08:47]   ENVI-met at 23.06.2018 [09.00.01] Sun: h=53.60° a=95.86°  T0ref=299.549  q0ref=16.370
+[0h 43min 28s ]  Time executed in prognostic flow equation: 14.70 s
+_________________________________________________________________________________________
+[0h 45min 33s ] New flow: 1 Steps [101 SOR Steps] du:0.012 dv:0.007 dw:0.009 after 14.80 s total
+Maximum divergence in flow field= 0.11283 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 47min 38s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.007 dw:0.009 after 14.90 s total
+Maximum divergence in flow field= 0.11245 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 49min 48s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.007 dw:0.009 after 15.00 s total
+Maximum divergence in flow field= 0.11207 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 51min 59s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.007 dw:0.009 after 15.10 s total
+Maximum divergence in flow field= 0.11169 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:17:33]   ENVI-met at 23.06.2018 [10.00.01] Sun: h=65.78° a=108.80°  T0ref=301.455  q0ref=16.339
+[0h 52min 15s ]  Time executed in prognostic flow equation: 15.10 s
+_________________________________________________________________________________________
+[0h 54min 30s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.008 dw:0.009 after 15.20 s total
+Maximum divergence in flow field= 0.11130 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 56min 49s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.009 dw:0.009 after 15.30 s total
+Maximum divergence in flow field= 0.11091 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[0h 59min 13s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.008 dw:0.009 after 15.40 s total
+Maximum divergence in flow field= 0.11053 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 1min 45s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.009 dw:0.009 after 15.50 s total
+Maximum divergence in flow field= 0.11015 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:27:19]   ENVI-met at 23.06.2018 [11.00.01] Sun: h=76.40° a=137.13°  T0ref=303.397  q0ref=15.692
+[1h 2min 1s ]  Time executed in prognostic flow equation: 15.50 s
+_________________________________________________________________________________________
+[1h 4min 38s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.011 dw:0.008 after 15.60 s total
+Maximum divergence in flow field= 0.10978 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 7min 7s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.012 dw:0.008 after 15.70 s total
+Maximum divergence in flow field= 0.10940 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 9min 33s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.012 dw:0.008 after 15.80 s total
+Maximum divergence in flow field= 0.10903 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 12min 10s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.012 dw:0.008 after 15.90 s total
+Maximum divergence in flow field= 0.10866 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:37:44]   ENVI-met at 23.06.2018 [12.00.01] Sun: h=78.75° a=204.00°  T0ref=305.342  q0ref=14.392
+[1h 12min 26s ]  Time executed in prognostic flow equation: 15.90 s
+_________________________________________________________________________________________
+[1h 15min 3s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.012 dw:0.008 after 16.00 s total
+Maximum divergence in flow field= 0.10829 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 17min 38s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.011 dw:0.008 after 16.10 s total
+Maximum divergence in flow field= 0.10792 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 20min 13s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.008 dw:0.008 after 16.20 s total
+Maximum divergence in flow field= 0.10755 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 22min 49s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.018 dw:0.008 after 16.30 s total
+Maximum divergence in flow field= 0.10718 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:48:24]   ENVI-met at 23.06.2018 [13.00.01] Sun: h=69.69° a=244.49°  T0ref=307.093  q0ref=12.676
+[1h 23min 6s ]  Time executed in prognostic flow equation: 16.30 s
+_________________________________________________________________________________________
+[1h 25min 48s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.005 dw:0.008 after 16.40 s total
+Maximum divergence in flow field= 0.10681 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 28min 27s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.005 dw:0.008 after 16.50 s total
+Maximum divergence in flow field= 0.10644 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 31min 12s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.005 dw:0.008 after 16.60 s total
+Maximum divergence in flow field= 0.10608 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 33min 42s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.020 dw:0.008 after 16.70 s total
+Maximum divergence in flow field= 0.10572 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[20:59:17]   ENVI-met at 23.06.2018 [14.00.01] Sun: h=57.78° a=260.49°  T0ref=308.171  q0ref=11.009
+[1h 33min 59s ]  Time executed in prognostic flow equation: 16.70 s
+_________________________________________________________________________________________
+[1h 36min 29s ] New flow: 1 Steps [101 SOR Steps] du:0.008 dv:0.005 dw:0.007 after 16.80 s total
+Maximum divergence in flow field= 0.10536 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 38min 58s ] New flow: 1 Steps [101 SOR Steps] du:0.008 dv:0.004 dw:0.007 after 16.90 s total
+Maximum divergence in flow field= 0.10502 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+Dynamical time step adjustment. Set dt=2 sec. (Class 1)
+[1h 41min 4s ] New flow: 1 Steps [101 SOR Steps] du:0.008 dv:0.004 dw:0.007 after 17.00 s total
+Maximum divergence in flow field= 0.10468 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 42min 27s ] New flow: 1 Steps [101 SOR Steps] du:0.007 dv:0.004 dw:0.007 after 17.10 s total
+Maximum divergence in flow field= 0.10436 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[21:08:02]   ENVI-met at 23.06.2018 [15.00.01] Sun: h=45.36° a=270.14°  T0ref=308.020  q0ref=9.822
+[1h 42min 44s ]  Time executed in prognostic flow equation: 17.10 s
+_________________________________________________________________________________________
+[1h 44min 4s ] New flow: 1 Steps [101 SOR Steps] du:0.007 dv:0.004 dw:0.006 after 17.20 s total
+Maximum divergence in flow field= 0.10405 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 45min 22s ] New flow: 1 Steps [101 SOR Steps] du:0.007 dv:0.004 dw:0.006 after 17.30 s total
+Maximum divergence in flow field= 0.10375 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 46min 38s ] New flow: 1 Steps [101 SOR Steps] du:0.006 dv:0.011 dw:0.005 after 17.40 s total
+Maximum divergence in flow field= 0.10348 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 47min 54s ] New flow: 1 Steps [101 SOR Steps] du:0.006 dv:0.003 dw:0.005 after 17.50 s total
+Maximum divergence in flow field= 0.10321 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[21:13:31]   ENVI-met at 23.06.2018 [16.00.01] Sun: h=32.93° a=277.81°  T0ref=306.506  q0ref=9.133
+[1h 48min 13s ]  Time executed in prognostic flow equation: 17.50 s
+_________________________________________________________________________________________
+[1h 49min 30s ] New flow: 1 Steps [101 SOR Steps] du:0.005 dv:0.003 dw:0.004 after 17.60 s total
+Maximum divergence in flow field= 0.10296 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 50min 45s ] New flow: 1 Steps [101 SOR Steps] du:0.005 dv:0.003 dw:0.004 after 17.70 s total
+Maximum divergence in flow field= 0.10273 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 52min 6s ] New flow: 1 Steps [101 SOR Steps] du:0.006 dv:0.002 dw:0.004 after 17.80 s total
+Maximum divergence in flow field= 0.10252 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 53min 22s ] New flow: 1 Steps [101 SOR Steps] du:0.007 dv:0.002 dw:0.004 after 17.90 s total
+Maximum divergence in flow field= 0.10232 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[21:18:59]   ENVI-met at 23.06.2018 [17.00.01] Sun: h=20.72° a=284.93°  T0ref=303.817  q0ref=8.755
+[1h 53min 41s ]  Time executed in prognostic flow equation: 17.90 s
+_________________________________________________________________________________________
+[1h 55min 8s ] New flow: 1 Steps [101 SOR Steps] du:0.009 dv:0.002 dw:0.005 after 18.00 s total
+Maximum divergence in flow field= 0.10215 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 56min 28s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.002 dw:0.005 after 18.10 s total
+Maximum divergence in flow field= 0.10199 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 57min 59s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.002 dw:0.006 after 18.20 s total
+Maximum divergence in flow field= 0.10186 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[1h 59min 13s ] New flow: 1 Steps [101 SOR Steps] du:0.012 dv:0.002 dw:0.007 after 18.30 s total
+Maximum divergence in flow field= 0.10173 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[21:24:52]   ENVI-met at 23.06.2018 [18.00.01] Sun: h=8.91° a=292.24°  T0ref=300.215  q0ref=8.527
+[1h 59min 33s ]  Time executed in prognostic flow equation: 18.30 s
+_________________________________________________________________________________________
+[2h 1min 5s ] New flow: 1 Steps [101 SOR Steps] du:0.013 dv:0.008 dw:0.008 after 18.40 s total
+Maximum divergence in flow field= 0.10163 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[2h 2min 17s ] New flow: 1 Steps [101 SOR Steps] du:0.013 dv:0.010 dw:0.008 after 18.50 s total
+Maximum divergence in flow field= 0.10155 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[2h 3min 24s ] New flow: 1 Steps [101 SOR Steps] du:0.012 dv:0.009 dw:0.007 after 18.60 s total
+Maximum divergence in flow field= 0.10147 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[2h 4min 32s ] New flow: 1 Steps [101 SOR Steps] du:0.012 dv:0.009 dw:0.007 after 18.70 s total
+Maximum divergence in flow field= 0.10140 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+_________________________________________________________________________________________
+[21:30:15]   ENVI-met at 23.06.2018 [19.00.01] Sun: h=-2.27° a=300.29°  T0ref=297.308  q0ref=8.380
+[2h 4min 56s ]  Time executed in prognostic flow equation: 18.70 s
+_________________________________________________________________________________________
+[2h 5min 42s ] New flow: 1 Steps [101 SOR Steps] du:0.012 dv:0.009 dw:0.006 after 18.80 s total
+Maximum divergence in flow field= 0.10134 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[2h 6min 41s ] New flow: 1 Steps [101 SOR Steps] du:0.011 dv:0.009 dw:0.006 after 18.90 s total
+Maximum divergence in flow field= 0.10128 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[2h 7min 23s ] New flow: 1 Steps [101 SOR Steps] du:0.010 dv:0.008 dw:0.005 after 19.00 s total
+Maximum divergence in flow field= 0.10123 @ 27,15,11 (absolute)/27,15,11 (without nesting grids)
+[21:33:50] *
+Cleaning up memory....
+[21:33:50] *
+$$ I am finished !!
+$$ Simulation summary:
+   Finalized on 07-04-2025@21:33:50
+   Time needed for Init: 0h 6min 5s
+   Time needed for Main: 2h 2min 26s
+      Total Time needed: 2h 8min 32s
+_________________________________________________________________________________________
+Thank you for using ENVI-met
+_________________________________________________________________________________________
+Log simulation as finished: DESKTOP-7UI3F9D_07-04-2025_19.25.18
+If Envimet is not in default unit 'C:' connect installation folder.
+Presione una tecla para continuar . . .

@@ -1,0 +1,55 @@
+﻿<ENVI-MET_Datafile>
+<Header>
+<filetype>EDX ENVI-met Simulation Data Definition</filetype>
+<version>101</version>
+<revisiondate>07-04-2025 21:30:07</revisiondate>
+<remark>This file links to the EDT file of the same name</remark>
+<fileInfo></fileInfo>
+<checksum>156</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <datadescription>
+     <data_type> 2 </data_type>
+     <data_content> 1 </data_content>
+     <data_zorientation> 0 </data_zorientation>
+     <data_health_status> 0 </data_health_status>
+     <data_spatial_dim> 3 </data_spatial_dim>
+     <nr_xdata> 50 </nr_xdata>
+     <nr_ydata> 22 </nr_ydata>
+     <nr_zdata> 40 </nr_zdata>
+     <spacing_x> 6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500 </spacing_x>
+     <spacing_y> 6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500,6.42500 </spacing_y>
+     <spacing_z> 0.60000,0.60000,0.60000,0.60000,0.60000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000,3.00000 </spacing_z>
+  </datadescription>
+  <variables>
+     <Data_per_variable> 1 </Data_per_variable>
+     <nr_variables> 40 </nr_variables>
+     <name_variables> Objects ( ),Flow u (m/s),Flow v (m/s),Flow w (m/s),Wind Speed (m/s),Wind Speed Change (%),Wind Direction (deg),Pressure Perturbation (dPa),Potential Air Temperature (°C),Air Temperature Delta (K),Air Temperature Change (K/h),Specific Humidity (g/kg),Relative Humidity (%),TKE (m²/m³),TKE Dissipation (m³/m³),Vertical Exchange Coef. Impuls (m²/s),Horizontal Exchange Coef. Impuls (m²/s),Vegetation LAD (m²/m³),Direct SW Radiation (W/m²),Diffuse SW Radiation (W/m²),Reflected SW Radiation (W/m²),Temperature Flux (K*m/s),Vapour Flux (g/kg*m/s),Water on Leaves (g/m²),Leaf Temperature (°C),Local Mixing Length (m),Mean Radiant Temp. (°C),TKE normalised 1D ( ),Dissipation normalised 1D ( ),Km normalised 1D ( ),TKE Mechanical Turbulence Prod. ( ),Stomata Resistance (s/m),CO2 (mg/m3),CO2 (ppm),Plant CO2 Flux (mg/m²s),Div LW Radiation Temp Change (K/h),Natural convection velocity (m/s),Building Number (),PET* Default Person (°C),UTCI (°C) </name_variables>
+  </variables>
+  <modeldescription>
+     <title> SimpleCaseIncreasedBoundarySimulationWithClouds 19.00.01 23.06.2018 </title>
+     <simulation_basename> SimpleCaseIncreasedBoundarySimulationWithClouds_AT_ </simulation_basename>
+     <simulation_date> 23.06.2018 </simulation_date>
+     <simulation_time> 19.00.01 </simulation_time>
+     <projectname> Project </projectname>
+     <locationname> Fulton County AP-Brown Field </locationname>
+     <model_rotation> 0.00000 </model_rotation>
+     <location_georef_lat> 33.76700 </location_georef_lat>
+     <location_georef_lon> -84.51700 </location_georef_lon>
+     <locationname> Fulton County AP-Brown Field </locationname>
+     <location_georef_xy_utmzone> 16 </location_georef_xy_utmzone>
+     <location_georef_x> 729951.56250 </location_georef_x>
+     <location_georef_y> 3739092.25000 </location_georef_y>
+  </modeldescription>
+  <envi-met_reference>
+     <envi-met_version> ENVI-met® V5.7.2 Feb24 © ENVI_MET GmbH Essen, 1997-2025 </envi-met_version>
+     <envi-met_GUID> DESKTOP-7UI3F9D_07-04-2025_19.25.18 </envi-met_GUID>
+     <licenseholder>  </licenseholder>
+  </envi-met_reference>
+  <additional_info>
+     <sunposition> -999.00000 </sunposition>
+     <sunposition_heightAngle> -999.00000 </sunposition_heightAngle>
+     <windinflow> 90.00000 </windinflow>
+     <addinfo1>  </addinfo1>
+  </additional_info>
+</ENVI-MET_Datafile>
